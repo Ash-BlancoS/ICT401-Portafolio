@@ -2,3 +2,4 @@
 Actividad..   
 Dibujo: rectángulo aproximado en el origen.  
 Observación: sombreado del perfil cerrado.  
+![]()
