@@ -1,1 +1,8 @@
-
+# E3C Triangulo en YZ
+Actividad..   
+ Oculte temporalmente los bocetos anteriores.
+Cree un nuevo Sketch sobre el plano YZ.
+Utilice tres líneas para construir un triángulo cerrado.
+Si el perfil no aparece cerrado, amplíe las esquinas y busque extremos separados. Una apariencia
+cercana no garantiza coincidencia
+![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Ejercicio%203B%20%E2%80%94%20C%C3%ADrculo%20sobre%20XZ.png))
