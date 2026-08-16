@@ -1,7 +1,6 @@
 # E4A Construir un perfil escalonado
  Oculte los tres bocetos anteriores.
-Cree un Sketch nuevo sobre XY. Compruebe que 3D Sketch está desactivado. Con la herramienta Line construya un contorno cerrado de seis segmentos siguiendo esta secuen
-cia:
+Cree un Sketch nuevo sobre XY. Compruebe que 3D Sketch está desactivado. Con la herramienta Line construya un contorno cerrado de seis segmentos siguiendo esta secuencia:
 a) segmento inferior hacia la derecha;
 b) segmento vertical derecho hacia arriba;
 c) segmento superior hacia la izquierda;
@@ -16,11 +15,18 @@ Finalice la herramienta Line sin salir todavía del Sketch. Renombre el boceto c
 ![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202026-08-15%20180552.png)
 
 # E4C Aplicar relaciones geométricas
-![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Ejercicio%203A%20%E2%80%94%20Rect%C3%A1ngulo%20sobre%20XY.png)
+![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202026-08-15%20183842.png)
 
 
 # Preguntas de comprobación 
 1. ¿Qué diferencia existe entre dos extremos que parecen unidos y dos extremos con coincidencia?
+   _-Dos extremos pueden parecer unidos, pero estar ligeramente separados. Con la restricción Coincident, los dos extremos quedan exactamente en el mismo punto.
+   
 2. ¿Por qué una línea puede parecer horizontal sin estar controlada como horizontal?
+   _-Porque puede verse horizontal aunque no tenga aplicada la restricción Horizontal. Al moverla, podría cambiar de inclinación.
+   
 3. ¿Qué relación se perdió cuando eliminó la restricción seleccionada?
+_-Se perdió la relación de igualdad, que hacía que dos o mas líneas tuvieran la misma longitud.
+   
 4. ¿Qué partes del boceto todavía pueden moverse y por qué esto es aceptable en la Semana 3?
+_-Todavía pueden moverse las partes que no tienen suficientes restricciones. Es aceptable porque apenas se están practicando las restricciones.
