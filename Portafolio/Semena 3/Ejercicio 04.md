@@ -13,7 +13,7 @@ Finalice la herramienta Line sin salir todavía del Sketch. Renombre el boceto c
 ![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202026-08-15%20180519.png)
 
 # E4B Probar la geometría libre
-![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Ejercicio%203A%20%E2%80%94%20Rect%C3%A1ngulo%20sobre%20XY.png)
+![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202026-08-15%20180552.png)
 
 # E4C Aplicar relaciones geométricas
 ![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Ejercicio%203A%20%E2%80%94%20Rect%C3%A1ngulo%20sobre%20XY.png)
