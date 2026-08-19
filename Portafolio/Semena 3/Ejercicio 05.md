@@ -1,4 +1,4 @@
-# E5A y E5B Construir un perfil escalonado
+# E5A y E5B Construir el boceto individual
 A..Ejercicio 5A — Interpretar la variante:
 Reciba la variante A, B o C. Antes de utilizar Fusion, escriba:
 plano de trabajo seleccionado;
