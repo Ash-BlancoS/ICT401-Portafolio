@@ -13,6 +13,7 @@ Finalice la herramienta Line sin salir todavía del Sketch. Renombre el boceto c
 
 # E4B Probar la geometría libre
 ![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202026-08-15%20180552.png)
+La geometría libre no funcionó como esperaba porque se aplicaron restricciones automáticamente al crear la figura y no las noté. Por eso, al mover las líneas, estas no se inclinaban como esperaba.
 
 # E4C Aplicar relaciones geométricas
 ![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202026-08-15%20183842.png)
