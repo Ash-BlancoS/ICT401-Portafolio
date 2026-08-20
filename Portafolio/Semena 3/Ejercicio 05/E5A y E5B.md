@@ -1,13 +1,15 @@
 # E5A y E5B Construir el boceto individual
 A..Ejercicio 5A — Interpretar la variante:
 Reciba la variante A, B o C. Antes de utilizar Fusion, escriba:
-plano de trabajo seleccionado;
-razón de la selección;
-número aproximado de segmentos del contorno;
-ubicación general del orificio;
-restricciones que espera utilizar.
-Las variantes cambian la orientación del escalón o la ubicación del orificio, pero todas pueden resol
-verse con líneas, un círculo y las restricciones básicas estudiadas.
+Plano de trabajo seleccionado: Plano horizontal/normal.
+
+Razón de la selección: Porque permite construir el contorno de la variante de manera sencilla.
+
+Número aproximado de segmentos del contorno: Aproximadamente 6.
+
+Ubicación general del orificio: Dentro del contorno.
+
+Restricciones que espera utilizar: Horizontal/vertical.
 
 B..Ejercicio 5B — Construir el boceto individual
 1. Oculte los bocetos anteriores.
