@@ -9,17 +9,17 @@
    
 ¿qué plano seleccionó y por qué?;
 
-_-Seleccioné el plano normal porque permitía trabajar la variante de frente y construir el perfil correctamente.
+_-Seleccioné el plano normal(xy) porque permitía trabajar la variante de frente y construir el perfil correctamente.
 ¿qué restricción resultó más útil?;
 
 _-La restricción horizontal/vertical fue la más útil para mantener las líneas en la orientación correcta.
 ¿qué error detectó la revisión?;
 
- _-Utilicé un tipo de línea que no correspondía.
+ _-Un cambio que debo realizar es especificar mejor las medidas para ubicar correctamente el boceto y asegurar que sus elementos queden en la posición adecuada.
  
 ¿qué corrección realizó?
 
-_-Cambié el tipo de línea utilizado por el que correspondía para que el boceto se ajustara correctamente.
+_-Ninguna
 
 ![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202026-08-19%20174414.png)
 ![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202026-08-19%20174644.png)
