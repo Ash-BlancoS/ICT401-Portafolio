@@ -20,6 +20,3 @@ _-La restricción horizontal/vertical fue la más útil para mantener las línea
 ¿qué corrección realizó?
 
 _-Ninguna
-
-![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202026-08-19%20174414.png)
-![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202026-08-19%20174644.png)
