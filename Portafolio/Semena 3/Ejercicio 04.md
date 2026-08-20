@@ -16,7 +16,7 @@ Finalice la herramienta Line sin salir todavía del Sketch. Renombre el boceto c
 
 # E4C Aplicar relaciones geométricas
 ![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202026-08-15%20183842.png)
-
+Se usaron las restricciones de Fijación y Horizontal/Vertical.
 
 # Preguntas de comprobación 
 1. ¿Qué diferencia existe entre dos extremos que parecen unidos y dos extremos con coincidencia?
