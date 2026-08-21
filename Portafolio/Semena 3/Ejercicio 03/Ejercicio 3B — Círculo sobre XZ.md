@@ -1,5 +1,5 @@
 # E3B Circulo en xz
-Actividad..   
+Actividad.   
 Oculte temporalmente el boceto anterior.
 Cree un nuevo Sketch sobre el plano XZ.
 Dibuje un círculo con su centro coincidente con el origen.
