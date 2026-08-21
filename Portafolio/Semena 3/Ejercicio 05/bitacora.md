@@ -1,4 +1,4 @@
-# Ejercicio 5D — Corregir y documentar
+# Ejercicio 5D — Corregir y documentar 
 
 1. Lea el cambio prioritario señalado por la otra persona.
 2. Verifique que la observación corresponde al archivo.
