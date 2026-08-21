@@ -1,5 +1,5 @@
 # E5A y E5B Construir el boceto individual
-A..Ejercicio 5A — Interpretar la variante:
+-AEjercicio 5A — Interpretar la variante:
 Reciba la variante A, B o C. Antes de utilizar Fusion, escriba:
 Plano de trabajo seleccionado: Plano horizontal/normal.
 
@@ -11,7 +11,7 @@ Ubicación general del orificio: Dentro del contorno.
 
 Restricciones que espera utilizar: Horizontal/vertical.
 
-B..Ejercicio 5B — Construir el boceto individual
+-Ejercicio 5B — Construir el boceto individual
 1. Oculte los bocetos anteriores.
 2. Seleccione el plano que indicó en su análisis y cree un Sketch.
 15
