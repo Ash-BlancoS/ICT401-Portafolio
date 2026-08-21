@@ -1,5 +1,5 @@
 # E3D Observacion de orientacion
-Actividad..   
+Actividad.   
 Haga visibles los tres bocetos.
 Utilice una vista isométrica para observarlos simultáneamente.
 Orbite lentamente y describa cómo cambia la apariencia de cada figura.
