@@ -15,4 +15,4 @@ _-No.
 _-Los ejes.
 
 
-![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Ejercicio%203D.png)
+![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Ejercicio%203D(semana%203).png)
