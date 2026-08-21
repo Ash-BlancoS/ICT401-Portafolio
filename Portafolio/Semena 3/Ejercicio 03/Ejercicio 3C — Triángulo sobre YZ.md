@@ -1,5 +1,5 @@
 # E3C Triangulo en YZ
-Actividad..   
+Actividad.   
  Oculte temporalmente los bocetos anteriores.
 Cree un nuevo Sketch sobre el plano YZ.
 Utilice tres líneas para construir un triángulo cerrado.
