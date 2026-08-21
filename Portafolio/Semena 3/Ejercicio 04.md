@@ -9,14 +9,15 @@ e) segmento horizontal hacia la izquierda;
 f) segmento vertical hacia abajo hasta el punto inicial.
 Finalice la herramienta Line sin salir todavía del Sketch. Renombre el boceto como 04_Perfil_guiado cuando termine la práctica
 
-![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202026-08-15%20180519.png)
+![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/E4A%20semana%203.png)
 
 # E4B Probar la geometría libre
-![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202026-08-15%20180552.png)
+![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/E4B%20semana%203.png)
 La geometría libre no funcionó como esperaba porque se aplicaron restricciones automáticamente al crear la figura y no las noté. Por eso, al mover las líneas, estas no se inclinaban como esperaba.
+![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/E4B(2)%20semana%203.png)
 
 # E4C Aplicar relaciones geométricas
-![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202026-08-15%20183842.png)
+![](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Im%C3%A1genes/E4C%20semana%203.png)
 Se usaron las restricciones de Fijación y Horizontal/Vertical.
 
 # Preguntas de comprobación 
