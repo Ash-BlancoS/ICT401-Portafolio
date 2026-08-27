@@ -9,7 +9,7 @@
 ## Semana 4- Operaciones de modeladolo sido
 
 ## Semana 5- Operaciones de modeladolo sido
-- Archivo: ICT401_S05_Apellido_Nombre
+- Archivo: ICT401_S05_Blanco solis_Ashley
 - Operacion que crea el cuerpo:  Extrusión.
 - Operaciones que retiran o modifican material:  Corte con extrusión, chaflán y redondeo.
 - Diferencia entre chaflan y redondeo: El chaflán hace la superficie plana inclinada. y el redondeo hace una superficie curva. 
