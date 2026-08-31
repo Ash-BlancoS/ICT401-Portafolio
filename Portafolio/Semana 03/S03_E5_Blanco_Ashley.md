@@ -1,4 +1,4 @@
-# E5A y E5B Construir el boceto individual
+# Ejercicio 5A — Interpretar la variante
 -AEjercicio 5A — Interpretar la variante:
 Reciba la variante A, B o C. Antes de utilizar Fusion, escriba:
 Plano de trabajo seleccionado: Plano horizontal/normal.
@@ -11,12 +11,9 @@ Ubicación general del orificio: Dentro del contorno.
 
 Restricciones que espera utilizar: Horizontal/vertical.
 
--Ejercicio 5B — Construir el boceto individual
+# Ejercicio 5B — Construir el boceto individual
 1. Oculte los bocetos anteriores.
 2. Seleccione el plano que indicó en su análisis y cree un Sketch.
-15
-ICT401 ∙ Dibujo Técnico Asistido por Computadora
-Semana 3
 3. Construya el contorno de la variante mediante líneas conectadas.
 4. Cree el círculo del orificio en la zona indicada.
 5. Compruebe visualmente que el contorno exterior produce un perfil cerrado.
