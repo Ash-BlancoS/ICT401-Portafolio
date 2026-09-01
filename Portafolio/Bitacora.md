@@ -21,10 +21,10 @@
 - Corrección o resultado observado:  no se encontraron elementos que necesitaran corrección.
     
 ## Semana 6- Mapa antes de modelar E1A
-**Característica**_____ _ **Operación prevista**_____ _ **Dato que la controla**
+**Característica**:**Operación prevista**,**Dato que la controla**
 
--Base rectangular:______Crear/Extrusión/Agregar_______Distancia/Aristas
--Resalte superior: _____________Unir______________________Distancia
--Rebaje central: ______________Cortar____________________Profundidad
--Perforación: ____________Retirar/Cortar/Hole________Profundidad/Diámetro
--Aristas biseladas: ___________Biselar_________________Radio/Distancia
+-Base rectangular:    Crear/Extrusión/Agregar  Distancia/Aristas
+-Resalte superior:       Unir  Distancia
+-Rebaje central:      Cortar   Profundidad
+-Perforación:    Retirar/Cortar/Hole   Profundidad/Diámetro
+-Aristas biseladas:    Biselar   Radio/Distancia
