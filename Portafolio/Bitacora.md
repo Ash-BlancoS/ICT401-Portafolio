@@ -1,9 +1,9 @@
 
 ## Semana 3- introducción a Autodesk Fusion  
--¿qué plano seleccionó y por qué?;  Seleccioné el plano normal(xy) porque permitía trabajar la variante de frente y construir el perfil correctamente.
--¿qué restricción resultó más útil?;  La restricción horizontal/vertical fue la más útil para mantener las líneas en la orientación correcta.
--¿qué error detectó la revisión?;  Un cambio que debo realizar es especificar mejor las medidas para ubicar correctamente el boceto y asegurar que sus elementos queden en la posición adecuada.
--¿qué corrección realizó?: Ninguna
+- ¿qué plano seleccionó y por qué?;  Seleccioné el plano normal(xy) porque permitía trabajar la variante de frente y construir el perfil correctamente.
+- ¿qué restricción resultó más útil?;  La restricción horizontal/vertical fue la más útil para mantener las líneas en la orientación correcta.
+- ¿qué error detectó la revisión?;  Un cambio que debo realizar es especificar mejor las medidas para ubicar correctamente el boceto y asegurar que sus elementos queden en la posición adecuada.
+- ¿qué corrección realizó?: Ninguna
 
 ## Semana 4- Primer modelo paramétrico
 - Valores iniciales: 60 x 40 x 8 mm.-
