@@ -20,3 +20,11 @@
 - Error o comprobación realizada:  no guardar correctamente la versión V3 del diseño.
 - Corrección o resultado observado:  no se encontraron elementos que necesitaran corrección.
     
+## Semana 6- Mapa antes de modelar E1A
+**Característica**    **Operación prevista**      **Dato que la controla**
+
+Base rectangular:       Crear/Extrusión/Agregar      Distancia/Aristas
+Resalte superior:               Unir                     Distancia
+Rebaje central:                Cortar                   Profundidad
+Perforación:              Retirar/Cortar/Hole        Profundidad/Diámetro
+Aristas biseladas:             Biselar                 Radio/Distancia
