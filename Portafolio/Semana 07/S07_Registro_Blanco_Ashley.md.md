@@ -36,10 +36,10 @@ Seleccione una arista completa y anote su longitud en milímetros. Identifique f
 
 ![P1: arista seleccionada y longitud visible en Measure](S07_P1_Medida_Blanco_Ashley.png)
 
-- Vistas que comparten ancho: [Respuesta].
-- Vistas que comparten altura: [Respuesta].
-- Vistas que comparten profundidad: [Respuesta].
-- Corrección realizada durante la revisión: [Una frase o “no fue necesaria”, con justificación].
+- Vistas que comparten ancho: [Frontal  y Superior].
+- Vistas que comparten altura: [Izquierda y Derecha].
+- Vistas que comparten profundidad: [Superior y Derecha].
+- Corrección realizada durante la revisión: [no fue necesaria, logre entender las preguntas y lo que pedian correctamente].
 
 ## P2 — Vistas principales obtenidas en Fusion
 
