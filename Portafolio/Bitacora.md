@@ -28,3 +28,23 @@
 - Rebaje central:      Cortar  - Profundidad
 - Perforación:    Retirar/Cortar/Hole -  Profundidad/Diámetro
 - Aristas biseladas:    Biselar  - Radio/Distancia
+
+## Semana 7- P3– Auditoría del dibujo mediante Fusion
+**A.**  ¿El modelo fue modificado o se eligió una dirección distinta? :
+
+El modelo no se modificó, solo se había tomado la vista equivocada.
+
+**B.**  El dibujo supone una escala común: ¿qué contornos deberían alinearse? Verifique en Fusion el ancho de ambas vistas. Explique la diferencia entre ese error de proyección y el zoom distinto permitido.: 
+
+-Los contornos que deben alinearse son el ancho de la base en frontal y superior.
+
+-Se comprobó que el ancho es 60 mm en ambas vistas.
+
+-El zoom solo cambia el tamaño visual, no la geometría ni la alineación.
+
+**C.**  ¿Existe en el sólido la característica circular dibujada? Compruébelo desde arriba y mediante órbita.
+Cite la captura superior correcta y explique qué línea no corresponde.:
+
+-No exixte.
+
+-La línea circular no corresponde; solo se mantienen las aristas reales de la cara superior.
