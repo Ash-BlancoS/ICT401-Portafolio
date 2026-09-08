@@ -47,22 +47,22 @@ Las capturas documentan orientación y correspondencia. **Este montaje no es un 
 
 | Lateral derecha | Frontal |
 |---|---|
-| ![Right de Fusion](S07_P2_Derecha_Apellido_Nombre.png) | ![Front de Fusion](S07_P2_Frontal_Apellido_Nombre.png) |
-| Sin vista en esta posición | **Superior** <br> ![Top de Fusion](S07_P2_Superior_Apellido_Nombre.png) |
+| ![Right de Fusion](S07_P2_Derecha_Blanco_Ashley.png) | ![Front de Fusion](S07_P2_Frontal_Blanco_Ashley.png) |
+| Sin vista en esta posición | **Superior** <br> ![Top de Fusion](S07_P2_Superior_Blanco_Ashley.png) |
 
 ### Correspondencias comprobadas
 
 | Par de vistas | Dimensión compartida | Valor comprobado en el modelo |
 |---|---|---:|
-| Frontal y superior | [Dimensión] | [mm] |
-| Frontal y lateral derecha | [Dimensión] | [mm] |
-| Superior y lateral derecha | [Dimensión] | [mm] |
+| Frontal y superior | [Ancho] | [60 mm] |
+| Frontal y lateral derecha | [Altura] | [40 mm] |
+| Superior y lateral derecha | [Profundidad] | [30 mm] |
 
-- La línea interior de la vista superior representa: [Respuesta].
-- La línea horizontal de la lateral derecha representa: [Respuesta].
-- Una esquina del ViewCube no produce una vista principal porque: [Respuesta].
-- La lateral derecha se sitúa a la izquierda en este registro porque: [Respuesta].
-- Corrección realizada después del punto de control: [Respuesta].
+- La línea interior de la vista superior representa: [El escalón de la pieza (cambio de nivel) ].
+- La línea horizontal de la lateral derecha representa: [El escalón de la pieza (cambio de nivel)].
+- Una esquina del ViewCube no produce una vista principal porque: [Se estan viendo los tres planos al mismo tiempo].
+- La lateral derecha se sitúa a la izquierda en este registro porque: [El eje Z es superior].
+- Corrección realizada después del punto de control: [Cambiar la camara del ViewCube a Ortográfica].
 
 ## P3 — Auditoría usando el modelo
 
@@ -70,32 +70,32 @@ Use los casos A, B y C incluidos en la guía. Reutilice las capturas P2 como evi
 
 ### Caso A
 
-- Hipótesis inicial: [Respuesta].
-- Acción realizada en Fusion para comprobarla: [Respuesta].
-- Error confirmado y corrección justificada: [Una o dos frases].
+- Hipótesis inicial: [Se esta mostrando la vista posterior en vez de la frontal.
+- Acción realizada en Fusion para comprobarla: [Turné la vista de el frente con el posterior].
+- Error confirmado y corrección justificada: [Se confirmó que la vista estaba invertida. La corrección fue restablecer la vista].
 - Evidencia: vista frontal de P2.
 
 ### Caso B
 
-- Hipótesis inicial: [Respuesta].
-- Acción realizada en Fusion y dimensión comprobada: [Respuesta].
-- Error confirmado y corrección justificada: [Una o dos frases].
-- ¿Por qué este caso a escala común no equivale al zoom distinto de mis capturas?: [Respuesta].
+- Hipótesis inicial: [ Al girar la figura parecía que se desplazaba o se movía de lugar.].
+- Acción realizada en Fusion y dimensión comprobada: [Turné entre Frente y Superior, medí el ancho y verifique el origen de la union].
+- Error confirmado y corrección justificada: [Se comprobó que el objeto no se movía, el error estaba en la alineación de las imagenes que hacía parecer que se movia.].
+- ¿Por qué este caso a escala común no equivale al zoom distinto de mis capturas?: [Porque en las dos imágenes tienen el mismo ancho y no parece que cambie ].
 - Evidencia: vistas frontal y superior de P2.
 
 ### Caso C
 
-- Hipótesis inicial: [Respuesta].
-- Acción realizada en Fusion para comprobarla: [Respuesta].
-- Error confirmado y corrección justificada: [Una o dos frases].
+- Hipótesis inicial: [La imagen muestra un circulo que no existe en el objeto.].
+- Acción realizada en Fusion para comprobarla: [Observé la vista Superior y la Inferior, y orbité en el modelo para revisar todo el objeto].
+- Error confirmado y corrección justificada: [Se confirmó que la línea circular no existe.La corrección fue ignorar esa línea de circulo].
 - Evidencia: vista superior de P2.
 
 ## Verificación de entrega
 
-- [ ] El archivo personal está guardado en Fusion Cloud y accesible para el docente.
-- [ ] Completé P1, P2 y P3 con mi trabajo.
-- [ ] Las cinco imágenes se ven al abrir este archivo en GitHub.
-- [ ] Las vistas principales provienen de cámara ortográfica y caras nombradas.
-- [ ] Mi copia conserva el bloque original; no alteré su forma.
-- [ ] El commit usa el mensaje `S07 ejercicios Fusion Apellido Nombre`.
-- [ ] Esta práctica no sustituye ni duplica la entrega del Laboratorio I-A.
+- [x ] El archivo personal está guardado en Fusion Cloud y accesible para el docente.
+- [x ] Completé P1, P2 y P3 con mi trabajo.
+- [x ] Las cinco imágenes se ven al abrir este archivo en GitHub.
+- [x ] Las vistas principales provienen de cámara ortográfica y caras nombradas.
+- [x ] Mi copia conserva el bloque original; no alteré su forma.
+- [x ] El commit usa el mensaje `S07 ejercicios Fusion Apellido Nombre`.
+- [x ] Esta práctica no sustituye ni duplica la entrega del Laboratorio I-A.
