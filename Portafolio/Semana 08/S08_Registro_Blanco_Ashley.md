@@ -128,35 +128,39 @@ Modelo correcto proporcionado por el docente durante la comprobación, en orient
 
 ### P3.1 · Caso A: ¿qué vista parece incorrecta, qué línea produce la inconsistencia, con cuál otra vista entra en contradicción y cómo debería corregirse?
 
-[Respuesta]
+[La vista incorrecta es la Top. La línea interna no corresponde al objeto. Contradice el lado Frontal. Se corrige quitando la parte derecha de la segunda arista horizontal]
 
 ### P3.2 · Caso B: ¿qué dimensión debería conservarse, dónde aparece la contradicción, qué información permite comprobarla y cómo debería corregirse?
 
-[Respuesta]
+[La dimensión que debe conservarse es la profundidad real que es la Right( 40mm). La contradicción está entre Top y Right. Se comprueba con en Fusion. Se corrige ajustando la vista superior a 40 mm en lugar de 48mm]
 
 ### P3.3 · Caso C: ¿cuál vista no pertenece al conjunto, qué característica lo demuestra, con cuáles vistas entra en contradicción y qué debería mostrar una vista correcta?
 
-[Respuesta]
+[La vista que no pertenece es la Front. Muestra la parte posterior del objeto. Contradice a Top y Right. Una vista correcta debería mostrar el rectángulo alineado con el cuadrado de Top..]
 
 ### P3.4 · Para cada caso: ¿qué acción realizó en Fusion, qué observó y cómo corrigió su hipótesis inicial?
 
-[Respuesta]
+[**A:** Alterné entre Front y Top; observé que la línea interna no existía; corregí quitando la arista.
+
+**B:**  Alterné entre Top y Right; comprobé que la profundidad real era 40 mm; corregí ajustando la Top.
+
+**C:** Orbité el modelo; comprobé que la Front mostraba la parte trasera; corregí descartando esa vista.]
 
 ### P3.5 · ¿Qué caso documentó en la captura y qué detalle demuestra el error?
 
-[Respuesta]
+[El Caso B. El detalle que demuestra el error es la diferencia de profundidad: 48 mm vs 40 mm.]
 
 | Caso | Hipótesis inicial | Acción en Fusion y observación | Corrección y causa |
 |---|---|---|---|
-| A | [Respuesta] | [Respuesta] | [Respuesta] |
-| B | [Respuesta] | [Respuesta] | [Respuesta] |
-| C | [Respuesta] | [Respuesta] | [Respuesta] |
+| A | La Top tenía una línea interna incorrecta. | Alterné vistas y confirmé que no existía. | Se quitó la parte derecha de la segunda arista horizontal.|
+| B | La profundidad no coincidía entre Top y Right. | Medí con Medir: real = 40 mm. | Se corrigió Top para que coincida en 40 mm. |
+| C | La Front mostraba la parte posterior. | Orbité y comprobé que no correspondía. | Se descartó la Front y se reconoció que no pertenece.|
 
 ### Evidencias
 
 Una vista de Fusion que compruebe uno de los errores; nombre y ViewCube visibles. Para el caso B, incluya Measure con la arista completa y su longitud.
 
-![P3: Error](S08_P3_Error_Apellido_Nombre.png)
+![P3: Error](S08_P3_Error_Blanco_Ashley.png)
 
 
 ## P4 — Reconstrucción 3D guiada
