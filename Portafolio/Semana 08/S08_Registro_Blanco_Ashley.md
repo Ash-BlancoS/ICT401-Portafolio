@@ -84,44 +84,51 @@ Un montaje de tres capturas de Fusion: Right a la izquierda, Front a la derecha 
 
 ### P2.1 · ¿Qué forma general imagina y cuáles son sus cambios de altura?
 
-[Respuesta]
+[La pieza se imagina como una forma en L escalonada, tenía dos alturas]
 
 ### P2.2 · ¿La profundidad se mantiene o cambia entre zonas? Relacione las tres vistas.
 
-[Respuesta]
+[Se mantiene, son la misma en Top y Right]
 
 ### P2.3 · ¿Qué correspondencias encuentra entre vistas?
 
-[Respuesta]
+[Front y Right: Altura. 
+
+Front y Top: Ancho.
+
+Top y Right: Profundidad .]
 
 ### P2.4 · ¿Qué información aporta Top y qué información aporta Right?
 
-[Respuesta]
+[Top: Ancho y largo total de la pieza.
+
+Right: La altura total de la pieza y la diferencia de alturas en los niveles.]
 
 ### P2.5 · Describa verbalmente la pieza imaginada antes de mirar las alternativas.
 
-[Respuesta]
+[Un bloque rectangular, con un cuadrado o cubo en una esquina, que desde el frente parece una L]
 
 ### P2.6 · ¿Selecciona A, B, C o D? Justifique antes de comprobar y descarte cada una de las otras tres mediante una vista.
 
-[Respuesta]
+[El modelo B es justo lo que imaginaba,(Hice primero P3, por lo que tenia una idea de como era el objeto)]
 
 ### P2.7 · Después de comprobar: ¿fue correcta su selección, qué interpretó incorrectamente si falló y qué vista fue decisiva? Conserve la selección inicial y explique la corrección.
 
-[Respuesta]
+[La selección es correcta: el modelo B coincide.
+No hubo error de interpretación. La vista Top fue la decisiva]
 
 | Alternativa | Justificación inicial: seleccionar o descartar | Vista que apoya mi decisión |
 |---|---|---|
-| A | [Respuesta] | [Respuesta] |
-| B | [Respuesta] | [Respuesta] |
-| C | [Respuesta] | [Respuesta] |
-| D | [Respuesta] | [Respuesta] |
+| A | [Se descarta: Tiene otro rectángulo arriba, en ves de un cubo.] | [Right] |
+| B | [Se selecciona: Es la mas parecida a lo que imagine.] | [Top] |
+| C | [Se descarta: El cubo de arriba no esta del lado correcto.] | [Front] |
+| D | [Se descarta: El cubo de arriba aparece ser mas corto.] | [Right] |
 
 ### Evidencias
 
 Modelo correcto proporcionado por el docente durante la comprobación, en orientación pictórica, con nombre y ViewCube visibles.
 
-![P2: Seleccion](S08_P2_Seleccion_Apellido_Nombre.png)
+![P2: Seleccion](S08_P2_Seleccion_Blanco_Ashley.png)
 
 
 ## P3 — Detectives de vistas
@@ -167,116 +174,143 @@ Una vista de Fusion que compruebe uno de los errores; nombre y ViewCube visibles
 
 ### P4.1 · Antes de abrir Fusion: indique ancho total, altura máxima, profundidad total y número de niveles o cambios principales.
 
-[Respuesta]
+[Ancho total (X): 64 mm
+
+Altura máxima (Z): 40 mm
+
+Profundidad total (Y): 40 mm
+
+Niveles principales: 3 cambios de altura (10 mm, 28 mm y 40 mm)]
 
 ### P4.2 · ¿Qué vista usará como referencia, qué plano inicial elegirá y cómo será su boceto base? Justifique relacionando las vistas.
 
-[Respuesta]
+[La vista de referencia será la Top, porque puedo ver el  ancho y la profundidad.
+El plano inicial será XY.
+El boceto base será un rectángulo de 64 × 40 mm,centrado.
+]
 
 ### P4.3 · ¿Cuál será su primera operación 3D y qué características posteriores prevé? Justifique.
 
-[Respuesta]
+[La primera operación será un extrude del rectángulo principal, de 10 mm de altura.
+Luego se tendría que hacer otro rectángulo de 20mm de profundidad y luego un otro de 20mm en una esquina]
 
 ### P4.4 · Después de construir: ¿coincide Front, coincide Top y coincide Right? Para cada vista cite un contorno, una arista y una dimensión comprobada.
 
-[Respuesta]
+[Front: coinciden los escalones; arista vertical comprobada de altura=40 mm; ancho=64 mm.
+
+Top: coincide el rectángulo dividido; arista horizontal del medio de 64 mm; profundidad=20 mm.
+
+Right: coincide la profundidad de los escalones; aristas horizontales=40,20 y 20 mm; alturas=10,18 y 12 mm.]
 
 ### P4.5 · ¿Qué fue necesario corregir y qué Sketch, operación o dimensión controlaba la corrección? Si no hubo cambios, justifique con una comprobación.
 
-[Respuesta]
+[No fue necesario cambiar nada: las tres vistas coincidieron.
+La comprobación se hizo midiendo en Fusion las aristas y los apuntes del profesor]
 
 | Vista | ¿Coincide? | Contorno y arista | Dimensión comprobada (mm) | Corrección y causa |
 |---|---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front | [Sí] | [Contorno en “L”; aristas verticales de los lados] | [Altura 40,28 y 10mm] | [No hubo corrección, coincidió con el modelo] |
+| Top | [Sí] | [Rectángulo dividido horizontalmente; arista horizontal del medio ] | [Profundidad 40 y 20mm] | [No hubo corrección, coincidió con el modelo] |
+| Right | [Sí] | [Contorno en “L” volteada; aristas verticales de los lados] | [Altura 40,28 y 10mm] | [No hubo corrección, coincidió con el modelo] |
 
 ### Evidencias
 
 Modelo terminado completo en orientación pictórica, nombre del diseño y ViewCube visibles.
 
-![P4: Modelo](S08_P4_Modelo_Apellido_Nombre.png)
+![P4: Modelo](S08_P4_Modelo_Blanco_Ashley.png)
 
 Montaje con tres pares: vista de referencia de esta guía junto a su correspondiente vista de Fusion. Disponga Right a la izquierda, Front a la derecha y Top debajo de Front.
 
-![P4: Comparacion](S08_P4_Comparacion_Apellido_Nombre.png)
+![P4: Comparacion](S08_P4_Comparacion_Blanco_Ashley.png)
 
 
 ## P5 — Reto de reconstrucción autónoma
 
 ### P5.1 · Antes de modelar: indique ancho total, altura máxima y profundidad total.
 
-[Respuesta]
+Ancho total: 72 mm
+
+Altura máxima: 40 mm
+
+Profundidad total: 48 mm
 
 ### P5.2 · ¿Qué vista elegirá para comenzar, qué plano inicial y qué primera operación prevé? Justifique.
 
-[Respuesta]
+[Usaré Top (XY) como referencia porque se el ancho y profundidad total.
+El plano inicial será XY.
+La primera operación será un extrude de 12mm en el regtangulo inical.]
 
 ### P5.3 · ¿Qué características posteriores prevé, cuál es la más difícil de interpretar y qué vistas necesita relacionar para comprenderla?
 
-[Respuesta]
+[Hacer los otros dos escalones, ancho y profundidad de estos. Tengo que relacionar Top y Right ]
 
 ### P5.4 · Después de construir: ¿coinciden Front, Top y Right? Para cada vista cite un contorno, una arista y una dimensión comprobada.
 
-[Respuesta]
+[Front: coincide el contorno de escalones; arista vertical izquierda=40 mm; ancho 72 mm.
+
+Top: coinciden los niveles con cortes horizontales; aristas horizontales 24 y 48 mm; profundidad Y=48 mm.
+
+Right: coincide el contorno de escalones; arista Horizontales 30 y 48 mm; altura Z=40 mm.]
 
 ### P5.5 · ¿Funcionó la estrategia inicial, qué tuvo que modificar, qué vista permitió detectarlo y qué haría diferente si reconstruyera nuevamente la pieza?
 
-[Respuesta]
+[La estrategia inicial funcionó.
+Si reconstruyera otra vez, haría un boceto mas elaborado con las medidas claras.]
 
 | Vista | ¿Coincide? | Contorno y arista | Dimensión comprobada (mm) | Corrección y causa |
 |---|---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front | [Sí] | [Escalones en 12 y 24mm,aristas horizontales] | [Ancho 72] | [No hubo corrección] |
+| Top | [Sí] | [rectángulo pequeño de 18 y 24,aristas verticales de 18mm ] | 
+[Profundidad 48] | [No hubo corrección] |
+| Right | [Sí] | [Escalones en 12 y 24mm,aristas horizontales] | [Altura 40] | [No hubo corrección] |
 
 ### Evidencias
 
 Modelo terminado completo en orientación pictórica, nombre del diseño y ViewCube visibles.
 
-![P5: Modelo](S08_P5_Modelo_Apellido_Nombre.png)
+![P5: Modelo](S08_P5_Modelo_Blanco_Ashley.png)
 
 Montaje con tres pares: vista de referencia de esta guía junto a su correspondiente vista de Fusion. Disponga Right a la izquierda, Front a la derecha y Top debajo de Front.
 
-![P5: Comparacion](S08_P5_Comparacion_Apellido_Nombre.png)
+![P5: Comparacion](S08_P5_Comparacion_Blanco_Ashley.png)
 
 ## Reflexión final
 
 Una vista por sí sola puede ser insuficiente porque:
 
-[Respuesta]
+[No muestra toda la forma y las medidas de la pieza.]
 
 Para relacionar correctamente varias vistas debo comprobar:
 
-[Respuesta]
+[Que las medidas y las líneas coincidan entre las vistas.]
 
 Antes de comenzar una reconstrucción 3D conviene:
 
-[Respuesta]
+[Revisar bien las medidas del plano]
 
 La diferencia principal entre lo que hice en Semana 7 y Semana 8 es:
 
-[Respuesta]
+[En la semana 8 aprendí a leer bocetos y formar un objeto según ese boceto sin ayuda.]
 
 Lo que todavía necesito practicar antes de reconstruir una pieza a partir de un plano es:
 
-[Respuesta]
+[hacer un boceto por mi misma para entender mejor la forma y las medidas de las piezas]
 
 ## Checklist
 
-- [ ] Completé P1 antes y después de observar las vistas.
-- [ ] Justifiqué mi selección en P2.
-- [ ] Identifiqué y comprobé inconsistencias en P3.
-- [ ] Planifiqué P4 antes de comenzar a modelar.
-- [ ] Comprobé P4 contra las tres vistas originales.
-- [ ] Realicé P5 con mayor autonomía.
-- [ ] Comprobé P5 contra las vistas originales.
-- [ ] Respondí las preguntas de reflexión.
-- [ ] Las ocho imágenes se visualizan correctamente en GitHub.
-- [ ] Mis modelos P4 y P5 están disponibles para revisión docente en Fusion Cloud.
-- [ ] Conservé mis predicciones iniciales aunque fueran incorrectas.
-- [ ] Expliqué las correcciones realizadas.
-- [ ] El commit utiliza el mensaje solicitado.
+- [x ] Completé P1 antes y después de observar las vistas.
+- [ x] Justifiqué mi selección en P2.
+- [ x] Identifiqué y comprobé inconsistencias en P3.
+- [ x] Planifiqué P4 antes de comenzar a modelar.
+- [ x] Comprobé P4 contra las tres vistas originales.
+- [ x] Realicé P5 con mayor autonomía.
+- [ x] Comprobé P5 contra las vistas originales.
+- [ x] Respondí las preguntas de reflexión.
+- [ x] Las ocho imágenes se visualizan correctamente en GitHub.
+- [ x] Mis modelos P4 y P5 están disponibles para revisión docente en Fusion Cloud.
+- [ x] Conservé mis predicciones iniciales aunque fueran incorrectas.
+- [ x] Expliqué las correcciones realizadas.
+- [ x] El commit utiliza el mensaje solicitado.
 
 Commit: `S08 ejercicios Fusion Apellido Nombre`.
 
