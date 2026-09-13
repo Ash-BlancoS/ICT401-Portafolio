@@ -312,7 +312,7 @@ Lo que todavía necesito practicar antes de reconstruir una pieza a partir de un
 - [ x] Expliqué las correcciones realizadas.
 - [ x] El commit utiliza el mensaje solicitado.
 
-Commit: `S08 ejercicios Fusion Apellido Nombre`.
+Commit: `S08 ejercicios Fusion Apellido Nombre`. 
 
 Corrección posterior: `S08 correccion Fusion Apellido Nombre`.
 
