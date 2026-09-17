@@ -4,7 +4,7 @@
 
 - Estudiante: Ashley Blanco Solis
 - Grupo: 60
-- Carpeta o proyecto de Fusion Cloud con acceso docente: [Respuesta]
+- Carpeta o proyecto de Fusion Cloud con acceso docente: Portafolio/Semana 09
 - Copias personales: `ICT401_S09_P1_Blanco_Ashley`, `ICT401_S09_P2_Blanco_Ashley`, `ICT401_S09_P3_Blanco_Ashley`.
 
 ## Instrucciones
@@ -21,38 +21,38 @@ X = ancho, Y = profundidad, Z = altura. Trabaje en milímetros. Cuando compare v
 
 ### P1.1 · Dimensiones generales identificadas antes de abrir Fusion
 
-- X total: [Respuesta]
-- Y total: [Respuesta]
-- Z total: [Respuesta]
+- X total: 70mm
+- Y total:40mm
+- Z total: 30mm
 
 ### P1.2 · Características geométricas identificadas
 
 | Característica | Descripción | Vista(s) que la definen | Dimensiones asociadas |
 |---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] |
+| 1 | Tiene dos niveles de altura| Front y Right| Y-Z| 
+| 2 | Forma de ¨L¨ | Front | X-Z|
+| 3 | Rectángulo mas pequeño en el nivel de arriba| Top y Right | X-Y |
+| 4 | Es mayor la profundidad del rectángulo de la base | Top y Right | X-Y |
 
 ### P1.3 · ¿Qué plano de boceto utilizará primero y por qué?
 
-[Respuesta]
+Usare Top, Porque es mas fácil saber las medidas del rectángulo de la base, como el ancho y profundidad total.
 
 ### P1.4 · Estrategia inicial de modelado
 
-1. [Respuesta]
-2. [Respuesta]
-3. [Respuesta]
-4. [Respuesta]
-5. [Respuesta]
+1. Crear un boceto de un rectángulo de 70x40mm.
+2. extruir hacia arriba 12mm.
+3. crear otro rectángulo de 20x30mm en la parte superior del rectángulo anterior.
+4. extruir el segundo regtangulo 18mm hacia arriba.
+5. comprobar si concuerda con el boceto.
 
 ### P1.5 · Después de comprobar en Fusion, ¿qué parte de la estrategia funcionó y qué tuvo que corregir?
 
-[Respuesta]
+No tuve que corregir, la estrategia funciono.
 
 ### P1.6 · ¿Qué vista o dimensión permitió detectar la corrección?
 
-[Respuesta]
+Top permite ver mejor las correcciones.
 
 ### Evidencias P1
 
@@ -70,39 +70,39 @@ Captura donde se vea el Sketch, dimensión u operación que mejor representa la 
 
 ### P2.1 · Resuma la estrategia A
 
-[Respuesta]
+-Rectángulo de 72x36mm, extruirlo a 36mm,crear un rectángulo de 44x36mm desde la arista vertical derecha y extruirlo a -24mm. luego usar Hole para hacer un circulo con centro 14,18, diámetro de 12mm y profundidad ALL(36mm)
 
 ### P2.2 · Resuma la estrategia B
 
-[Respuesta]
+-Regtangulo de 72x36mm, extruirlo a 12mm,crear un rectángulo de 28x36mm desde la arista vertical izquierda y extruirlo a 24mm.luego usar Hole para hacer un circulo con centro 14,18, diámetro de 12mm y profundidad ALL(36mm)
 
 ### P2.3 · ¿Ambas estrategias pueden producir la misma geometría? Justifique.
 
-[Respuesta]
+Si, si se siguen las medidas correctas
 
 ### P2.4 · Compare las estrategias
 
 | Criterio | Estrategia A | Estrategia B | ¿Cuál considera mejor y por qué? |
 |---|---|---|---|
-| Número de operaciones | [Respuesta] | [Respuesta] | [Respuesta] |
-| Claridad de intención de diseño | [Respuesta] | [Respuesta] | [Respuesta] |
-| Facilidad de edición | [Respuesta] | [Respuesta] | [Respuesta] |
-| Dependencia entre operaciones | [Respuesta] | [Respuesta] | [Respuesta] |
-| Correspondencia con el plano | [Respuesta] | [Respuesta] | [Respuesta] |
+| Número de operaciones | 3 | 3 | ninguna, las dos tienen la misma cantidad |
+| Claridad de intención de diseño | media | alta | B, es mas facil de entender |
+| Facilidad de edición | alta | alta| B, estoy mas acostumbrada a ese tipo de estrategia|
+| Dependencia entre operaciones | alta | alta |  ninguna, las dos son iguales |
+| Correspondencia con el plano | coinciden  | coinciden | ninguna, las dos tienen igual de correspondencia.
 
 ### P2.5 · Si cambia una dimensión principal de la pieza, ¿qué estrategia sería más fácil de modificar? Explique qué Sketch u operación tendría que editar.
 
-[Respuesta]
+La estrategia B, Para mi seria mas fácil ya que se iría en orden de abajo hacia arrib y es con el tipo de estragia a la que estoy mas acostumbradaca usar.
 
 ### P2.6 · ¿Cuál estrategia usaría finalmente y por qué?
 
-[Respuesta]
+B, es mas fácil hacerla en orden de abajo hacia arriba las operaciones.
 
 ### Evidencias P2
 
 Captura del historial/timeline y del modelo obtenido con la estrategia seleccionada.
 
-![P2: Estrategia seleccionada](S09_P2_Estrategia_Blanco_Ashley.png)
+![P2: Estrategia seleccionada](S09_P2_Estrategia_Blanco_Ashley(2).png)
 
 ---
 
@@ -110,51 +110,52 @@ Captura del historial/timeline y del modelo obtenido con la estrategia seleccion
 
 ### P3.1 · Antes de modelar, describa la pieza en una frase técnica
 
-[Respuesta]
+Pieza rectangular de 80×50×30 mm, con un segundo nivel superior de 45×30mm, un agujero de 12mm de diámetro y una ranura de 12×16mm.
 
 ### P3.2 · Dimensiones y características clave
 
 | Elemento | Valor o descripción | Vista(s) de donde se obtiene |
 |---|---|---|
-| X total | [Respuesta] | [Respuesta] |
-| Y total | [Respuesta] | [Respuesta] |
-| Z total | [Respuesta] | [Respuesta] |
-| Característica 1 | [Respuesta] | [Respuesta] |
-| Característica 2 | [Respuesta] | [Respuesta] |
-| Característica 3 | [Respuesta] | [Respuesta] |
+| X total | 80mm | Top |
+| Y total | 50mm | Top|
+| Z total | 30mm| Front |
+| Característica 1 | Hole de 12 mm| Top |
+| Característica 2 | Ranura 12×16 mm| Top |
+| Característica 3 | Un segundo nivel de 45×30 mm | Top y Front |
 
 ### P3.3 · Estrategia inicial
 
-1. [Respuesta]
-2. [Respuesta]
-3. [Respuesta]
-4. [Respuesta]
-5. [Respuesta]
+1.Crear un rectángulo de 80×50 mm.
+2.Extruir la base a 12 mm.
+3.Crear el resalte de 45×30 mm.
+4.Extruir el resalte a 18 mm.
+5.Crear la ranura de 12 × 16 mm y Hole de 12mm en el resalte.
+
 
 ### P3.4 · Verificación de vistas
 
 | Vista | ¿Coincide con el plano? | Contorno/característica comprobada | Corrección realizada |
 |---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front | Sí | Altura de 30 mm | Ninguna |
+| Top | Sí | ancho 80 × profundidad 50 mm, agujero y ranura | Ninguna |
+| Right | Sí | Altura y profundidad | Ninguna |
 
 ### P3.5 · Verificación dimensional
 
 | Dimensión crítica | Valor del plano | Valor medido en Fusion | Elemento medido | ¿Coincide? |
 |---|---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| 1 | 80 mm | 80 mm | Ancho total | Sí|
+| 2 | 30 mm | 30 mm | Altura total |Sí |
+| 3 | 50 mm | 50 mm | Profundidad total | Sí |
+| 4 | 50 mm | 50 mm | Profundidad total del resalte | Sí |
 
 ### P3.6 · ¿Qué cambió entre su estrategia inicial y el modelo final?
 
-[Respuesta]
+Nada cambio.
 
 ### P3.7 · Si tuviera que cambiar una dimensión principal, ¿qué Sketch, dimensión u operación editaría?
 
-[Respuesta]
+Editaría el Sketch de la base.
 
 ### Evidencias P3
 
