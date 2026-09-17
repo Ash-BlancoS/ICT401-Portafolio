@@ -133,7 +133,7 @@ Montaje de Front, Top y Right del modelo, presentado de manera clara para compar
 
 Captura del boceto más representativo con restricciones y dimensiones visibles.
 
-![Lab I-B: Boceto](S09_LabIB_Boceto_Blanco_Ashley (2).png)
+![Lab I-B: Boceto](S09_LabIB_Boceto_Blanco_Ashley(2).png)
 
 ### D4 · Timeline / historial paramétrico
 
