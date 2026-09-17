@@ -1,6 +1,7 @@
 # Laboratorio integrador I-A- 
-Archivo en Fusion Cloud: ICT401_LABIA_Apellido_Nombre- 
+Archivo en Fusion Cloud: ICT401_LABIA_Blanco_Ashley- 
 Version final: Entrega Laboratorio IA
+
 ## Estrategia y comprobacion
 Primero hice la base rectangular de 80 × 50 × 10 mm. Encima de esa base puse el bloque más alto y después el rebaje que va alrededor. Luego añadí el hueco en el centro y los detalles de borde (chaflán y redondeo). La idea fue hacerlo paso a paso, siempre apoyándome en lo que ya estaba dibujado.
 
