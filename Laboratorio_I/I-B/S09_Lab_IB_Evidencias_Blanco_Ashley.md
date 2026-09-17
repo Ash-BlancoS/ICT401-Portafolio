@@ -23,9 +23,9 @@ Esta ficha forma parte de la evidencia evaluable del Laboratorio integrador I-B 
 
 ### A1 · Dimensiones generales
 
-- X total: [Respuesta]
-- Y total: [Respuesta]
-- Z total: [Respuesta]
+- X total: 90
+- Y total: 60
+- Z total: 42
 
 ### A2 · Características geométricas identificadas
 
@@ -39,20 +39,20 @@ Esta ficha forma parte de la evidencia evaluable del Laboratorio integrador I-B 
 
 ### A3 · Describa la pieza en una frase técnica antes de abrir Fusion
 
-[Respuesta]
+Modelo con contorno escalonado con un agujero y una ranura
 
 ### A4 · ¿Qué plano de boceto utilizará primero y por qué?
 
-[Respuesta]
+Top, es mas facil empezar el boceto desde ese plano. y leer el ancho total y la profundidad
 
 ### A5 · Estrategia inicial de modelado
 
-1. [Respuesta]
-2. [Respuesta]
-3. [Respuesta]
-4. [Respuesta]
-5. [Respuesta]
-6. [Respuesta]
+1. Rectángulo de 90x60mm y Extruir 12mm
+2. Rectángulo de 60x35mm y Extruir 16mm
+3. Rectángulo de 25x35mm y Extruir 14mm
+4. Hole de 14mm en el centro del segundo regtangulo
+5. Ranura de 14x12mm en el rectángulo base
+6. Revisar y corregir
 
 ---
 
@@ -60,30 +60,30 @@ Esta ficha forma parte de la evidencia evaluable del Laboratorio integrador I-B 
 
 ### B1 · Boceto base
 
-- Plano seleccionado: [Respuesta]
-- Geometría principal: [Respuesta]
-- Restricciones aplicadas: [Respuesta]
-- Dimensiones aplicadas: [Respuesta]
-- Estado del boceto: [Respuesta]
+- Plano seleccionado: Top.
+- Geometría principal: Regtangulo.
+- Restricciones aplicadas: Horizontal/Vertical y Igual.
+- Dimensiones aplicadas: 90,60,25 mm de ancho. Altura de 42,28,12 mm.
+- Estado del boceto: Completamente restringido.
 
 ### B2 · Operaciones principales realizadas
 
 | Orden | Operación | Propósito geométrico | Parámetro/dimensión principal | Resultado |
 |---|---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 5 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 6 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| 1 | Sketch| Definir el perfil principal de la pieza | X = 90 mm/alturas del plano |  | base
+| 2 | Extrude | Generar el cuerpo principal | Y = 60 mm | Cuerpo base|
+| 3 | Sketch + Extrude |Crear la segunda plataforma | X = 0–60 mm; Y = 25–60 mm | Plataforma elevada |
+| 4 | Sketch + Extrude | Crear la torre |X = 0–25 mm; Y = 25–60 mm  |Torre elevada |
+| 5 | Hole |Crear el agujero pasante  | Ø14 mm | Agujero  |
+| 6 | Sketch + Extrude | Crear la ranura pasante | 14 × 12 mm; X = 68–82 mm; Y = 10–22 mm | Ranura rectangular |
 
 ### B3 · Cambios respecto a la estrategia inicial
 
 | Cambio realizado | Motivo | Vista/dimensión que reveló el problema | Sketch/operación corregida |
 |---|---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+|No se realizó ningún cambio  | La estrategia fue correcta  | comparación entre Front, Top y Right |No fue necesario corregir |
+| No se realizó ningún cambio | La estrategia fue correcta | comparación entre Front, Top y Right | No fue necesario corregir  |
+| No se realizó ningún cambio | La estrategia fue correcta  |comparación entre Front, Top y Right | No fue necesario corregir  |
 
 ---
 
@@ -93,25 +93,25 @@ Esta ficha forma parte de la evidencia evaluable del Laboratorio integrador I-B 
 
 | Vista | ¿Coincide? | Evidencia geométrica | Diferencia detectada | Corrección realizada |
 |---|---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front | Sí | Se observa el perfil escalonado con alturas de 12, 28 y 42 mm y un ancho total de 90 mm. | No se detectaron diferencias. | No fue necesaria. |
+| Top | Sí | Coinciden las dimensiones generales de 90 × 60 mm, la posición de la plataforma y torre, el agujero Ø14 y la ranura de 14 × 12 mm. | No se detectaron diferencias. | No fue necesaria. |
+| Right | Sí | Coinciden la profundidad total de 60 mm y los diferentes niveles de altura de la pieza. | No se detectaron diferencias. | No fue necesaria. |
 
 ### C2 · Comprobación dimensional
 
 | Nº | Dimensión crítica | Valor del plano | Valor medido en Fusion | Elemento seleccionado | ¿Coincide? |
 |---|---|---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 5 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| 1 | Ancho total X | 90 mm | 90 mm | Base | Sí |
+| 2 | Profundidad total Y | 60 mm | 60 mm | Base | Sí |
+| 3 | Altura total Z | 42 mm | 42 mm | Torre | Sí |
+| 4 | Diámetro del agujero | Ø14 mm | Ø14 mm | Agujero circular | Sí |
+| 5 | Dimensiones de la ranura | 14 × 12 mm | 14 × 12 mm | Ranura rectangular | Sí |
 
 ### C3 · Editabilidad paramétrica
 
 Si una dimensión principal de la pieza cambiara, indique qué Sketch, dimensión u operación tendría que editar y por qué.
 
-[Respuesta]
+Para cambiar el tamaño general de la pieza se editaría el Sketch de la base y sus dimensiones de 90 mm y 60 mm. Para modificar la altura de la plataforma se editaría la extrusión de 16 mm, mientras que para modificar la altura de la torre se editaría la extrusión de 14 mm. El diámetro y la posición del agujero se modificarían desde su Sketch, y las dimensiones o posición de la ranura desde el Sketch utilizado para crearla.
 
 ---
 
@@ -133,7 +133,7 @@ Montaje de Front, Top y Right del modelo, presentado de manera clara para compar
 
 Captura del boceto más representativo con restricciones y dimensiones visibles.
 
-![Lab I-B: Boceto](S09_LabIB_Boceto_Blanco_Ashley.png)
+![Lab I-B: Boceto](S09_LabIB_Boceto_Blanco_Ashley (2).png)
 
 ### D4 · Timeline / historial paramétrico
 
@@ -151,18 +151,18 @@ Captura de `Inspect > Measure` con una dimensión crítica y el elemento selecci
 
 ## E. Checklist de entrega
 
-- [ ] Analicé el plano antes de comenzar el modelado.
-- [ ] Registré X, Y y Z totales.
-- [ ] Identifiqué las características principales y las vistas que las definen.
-- [ ] Registré una estrategia inicial antes de modelar.
-- [ ] El modelo final corresponde a Front, Top y Right.
-- [ ] Verifiqué al menos cinco dimensiones críticas.
-- [ ] Los bocetos principales tienen restricciones y dimensiones coherentes.
-- [ ] El historial de operaciones es legible y editable.
-- [ ] El nombre del archivo cumple la nomenclatura solicitada.
-- [ ] El archivo editable está disponible en Fusion Cloud con acceso docente.
-- [ ] Las cinco evidencias se visualizan correctamente en GitHub.
-- [ ] Esta ficha está completa.
+- [x ] Analicé el plano antes de comenzar el modelado.
+- [x ] Registré X, Y y Z totales.
+- [x ] Identifiqué las características principales y las vistas que las definen.
+- [x ] Registré una estrategia inicial antes de modelar.
+- [x ] El modelo final corresponde a Front, Top y Right.
+- [ x] Verifiqué al menos cinco dimensiones críticas.
+- [ x] Los bocetos principales tienen restricciones y dimensiones coherentes.
+- [x ] El historial de operaciones es legible y editable.
+- [x ] El nombre del archivo cumple la nomenclatura solicitada.
+- [x ] El archivo editable está disponible en Fusion Cloud con acceso docente.
+- [x ] Las cinco evidencias se visualizan correctamente en GitHub.
+- [x ] Esta ficha está completa.
 
 ---
 
