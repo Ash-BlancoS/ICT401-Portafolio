@@ -1,3 +1,4 @@
+# Fase 01 #
 | Fecha | Objetivo | Actividad |
 |---|---|---|
 | 16/09/2026 | Revisar la guía e identificar lo necesario para completar el proyecto. | Se realizó la lectura del material del proyecto y se identificaron las partes necesarias para realizar el diseño También se revisaron las secciones que debía tener el documento y se hicieron los primeros bocetos. |
