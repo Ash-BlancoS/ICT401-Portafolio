@@ -102,7 +102,7 @@ B, es mas fácil hacerla en orden de abajo hacia arriba las operaciones.
 
 Captura del historial/timeline y del modelo obtenido con la estrategia seleccionada.
 
-![P2: Estrategia seleccionada](S09_P2_Estrategia_Blanco_Ashley(2).png)
+![P2: Estrategia seleccionada](S09_P2_Estrategia_Blanco_Ashley(2)_.png)
 
 ---
 
@@ -177,31 +177,31 @@ Captura de una comprobación dimensional con `Inspect > Measure`.
 
 La diferencia principal entre reconstruir una pieza en Semana 8 y reconstruirla desde un plano en Semana 9 es:
 
-[Respuesta]
+-No noté una diferencia importante, ya que en ambas semanas se siguió un proceso similar para reconstruir el objeto.
 
 Antes de abrir Fusion, la información mínima que debo extraer de un plano es:
 
-[Respuesta]
+-Las medidas, la forma de la pieza y la ubicación de los agujeros.
 
 Una estrategia de modelado es mejor que otra cuando:
 
-[Respuesta]
+-Permite hacer la pieza de forma más sencilla y con menos pasos(en mi caso cuenta también que sea mas fácil de entender que procedimiento debe seguir).
 
 La comprobación final más importante para asegurar que el modelo corresponde al plano es:
 
-[Respuesta]
+-Ver que la forma del objeto y las medidas coincidan con el plano.
 
 ## Checklist
 
-- [ ] Registré la estrategia inicial de P1 antes de comprobar en Fusion.
-- [ ] Comparé dos estrategias en P2 y justifiqué mi selección.
-- [ ] Reconstruí P3 a partir del plano sin usar un modelo 3D de referencia.
-- [ ] Comparé Front, Top y Right contra el plano.
-- [ ] Verifiqué al menos cuatro dimensiones críticas en P3.
-- [ ] Documenté las correcciones sin borrar mis decisiones iniciales.
-- [ ] Las cinco imágenes se visualizan correctamente en GitHub.
-- [ ] Los modelos P1–P3 están disponibles en Fusion Cloud con acceso docente.
-- [ ] Completé la reflexión final.
+- [x ] Registré la estrategia inicial de P1 antes de comprobar en Fusion.
+- [x ] Comparé dos estrategias en P2 y justifiqué mi selección.
+- [x ] Reconstruí P3 a partir del plano sin usar un modelo 3D de referencia.
+- [x ] Comparé Front, Top y Right contra el plano.
+- [x ] Verifiqué al menos cuatro dimensiones críticas en P3.
+- [x ] Documenté las correcciones sin borrar mis decisiones iniciales.
+- [x ] Las cinco imágenes se visualizan correctamente en GitHub.
+- [x ] Los modelos P1–P3 están disponibles en Fusion Cloud con acceso docente.
+- [x] Completé la reflexión final.
 
 Commit sugerido: `S09 ejercicios Fusion Blanco Ashley`.
 
