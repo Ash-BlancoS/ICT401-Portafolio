@@ -220,3 +220,30 @@ R5 se califica con 0,00 porque la ficha no respeta la nomenclatura y la carpeta 
 ### Calificacion final
 
 **6.76 / 10,0 %**
+
+## H. Retroalimentacion del evaluador
+
+### Fortalezas
+
+Las dimensiones y las cinco evidencias estan disponibles.
+
+### Aspectos por corregir
+
+Completar A2, acceso/commit declarados y ruta/nomenclatura oficial.
+
+### Desglose del puntaje
+
+| Criterio | Puntaje obtenido |
+|---|---:|
+| R1 - Interpretacion correcta del plano o conjunto de vistas | 1.50 |
+| R2 - Reconstruccion tridimensional coherente | 1.88 |
+| R3 - Aplicacion de restricciones y dimensiones | 1.13 |
+| R4 - Precision geometrica y correspondencia con el plano | 1.50 |
+| R5 - Organizacion, nomenclatura y archivo editable | 0.00 |
+| R6 - Presentacion y cumplimiento del enunciado | 0.75 |
+
+R5 se califica con 0,00 porque la ficha no respeta la nomenclatura y la carpeta oficial `Portafolio/semana09`. La revision se baso exclusivamente en esta ficha y sus evidencias enlazadas o insertadas; no se inspeccionaron archivos de Fusion.
+
+### Calificacion final
+
+**6.76 / 10,0 %**
