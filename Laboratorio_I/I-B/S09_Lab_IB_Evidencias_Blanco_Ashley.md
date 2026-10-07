@@ -166,19 +166,22 @@ Captura de `Inspect > Measure` con una dimensión crítica y el elemento selecci
 
 ---
 
-# F. Rúbrica oficial del Laboratorio integrador I-B
+# F. Rubrica oficial del Laboratorio integrador I-B
 
-> Esta rúbrica reproduce los criterios y valores establecidos en el programa oficial. La persona docente puede anotar el puntaje obtenido y observaciones en las columnas finales.
+La tabla siguiente registra la evaluacion aplicada exclusivamente a esta ficha y sus evidencias enlazadas o insertadas. Los valores coinciden con el Excel y el PDF individual.
 
-| Criterio oficial | Valor máximo | Evidencia principal en esta ficha | Puntaje obtenido | Observaciones de evaluación |
-|---|---:|---|---:|---|
-| Interpretación correcta del plano o conjunto de vistas | 2,0 % | Secciones A1–A5 y C1 | [Evaluador] | [Evaluador] |
-| Reconstrucción tridimensional coherente | 2,5 % | Secciones B1–B3, D1 y D2 | [Evaluador] | [Evaluador] |
-| Aplicación de restricciones y dimensiones | 1,5 % | B1, D3 y C2 | [Evaluador] | [Evaluador] |
-| Precisión geométrica y correspondencia con el plano | 2,0 % | C1, C2, D2 y D5 | [Evaluador] | [Evaluador] |
-| Organización, nomenclatura y archivo editable | 1,0 % | Identificación, B2, D4 y checklist | [Evaluador] | [Evaluador] |
-| Presentación y cumplimiento del enunciado | 1,0 % | Ficha completa, evidencias y checklist | [Evaluador] | [Evaluador] |
-| **Total** | **10,0 %** |  | **[Evaluador]** | **[Evaluador]** |
+| Criterio oficial | Valor maximo | Puntaje obtenido | Observaciones de evaluacion |
+|---|---:|---:|---|
+| Interpretacion correcta del plano o conjunto de vistas | 2.00 | 1.50 | Cumple mayoritariamente; quedan faltantes o verificaciones menores. |
+| Reconstruccion tridimensional coherente | 2.50 | 1.88 | Cumple mayoritariamente; quedan faltantes o verificaciones menores. |
+| Aplicacion de restricciones y dimensiones | 1.50 | 1.13 | Cumple mayoritariamente; quedan faltantes o verificaciones menores. |
+| Precision geometrica y correspondencia con el plano | 2.00 | 1.50 | Cumple mayoritariamente; quedan faltantes o verificaciones menores. |
+| Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Sin evidencia verificable para este criterio. |
+| Presentacion y cumplimiento del enunciado | 1.00 | 0.75 | Cumple mayoritariamente; quedan faltantes o verificaciones menores. |
+
+**Total obtenido: 6.76 / 10,00 %**
+
+La ruta `Laboratorio_I/I-B/` se acepta como ruta oficial alternativa junto con `Portafolio/semana09/`. No se inspeccionaron archivos de Fusion.
 
 ## G. Resumen para evaluación asistida por ChatGPT
 
