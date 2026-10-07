@@ -172,12 +172,12 @@ La tabla siguiente registra la evaluacion aplicada exclusivamente a esta ficha y
 
 | Criterio oficial | Valor maximo | Puntaje obtenido | Observaciones de evaluacion |
 |---|---:|---:|---|
-| Interpretacion correcta del plano o conjunto de vistas | 2.00 | 1.50 | Cumple mayoritariamente; quedan faltantes o verificaciones menores. |
-| Reconstruccion tridimensional coherente | 2.50 | 1.88 | Cumple mayoritariamente; quedan faltantes o verificaciones menores. |
-| Aplicacion de restricciones y dimensiones | 1.50 | 1.13 | Cumple mayoritariamente; quedan faltantes o verificaciones menores. |
-| Precision geometrica y correspondencia con el plano | 2.00 | 1.50 | Cumple mayoritariamente; quedan faltantes o verificaciones menores. |
-| Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Sin evidencia verificable para este criterio. |
-| Presentacion y cumplimiento del enunciado | 1.00 | 0.75 | Cumple mayoritariamente; quedan faltantes o verificaciones menores. |
+| Interpretacion correcta del plano o conjunto de vistas | 2.00 | 1.50 | Puntaje parcial: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
+| Reconstruccion tridimensional coherente | 2.50 | 1.88 | Puntaje parcial: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
+| Aplicacion de restricciones y dimensiones | 1.50 | 1.13 | Puntaje parcial: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
+| Precision geometrica y correspondencia con el plano | 2.00 | 1.50 | Puntaje parcial: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
+| Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Puntaje 0,00: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
+| Presentacion y cumplimiento del enunciado | 1.00 | 0.75 | Puntaje parcial: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
 
 **Total obtenido: 6.76 / 10,00 %**
 
