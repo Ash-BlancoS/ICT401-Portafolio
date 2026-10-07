@@ -172,12 +172,12 @@ La tabla siguiente registra la evaluacion aplicada exclusivamente a esta ficha y
 
 | Criterio oficial | Valor maximo | Puntaje obtenido | Observaciones de evaluacion |
 |---|---:|---:|---|
-| Interpretacion correcta del plano o conjunto de vistas | 2.00 | 1.50 | Puntaje parcial: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
-| Reconstruccion tridimensional coherente | 2.50 | 1.88 | Puntaje parcial: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
-| Aplicacion de restricciones y dimensiones | 1.50 | 1.13 | Puntaje parcial: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
-| Precision geometrica y correspondencia con el plano | 2.00 | 1.50 | Puntaje parcial: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
-| Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Puntaje 0,00: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
-| Presentacion y cumplimiento del enunciado | 1.00 | 0.75 | Puntaje parcial: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
+| Interpretacion correcta del plano o conjunto de vistas | 2.00 | 1.50 | Puntaje parcial: En A1-A5 y C1, revisar la interpretacion de dimensiones, caracteristicas y vistas. Observacion especifica: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
+| Reconstruccion tridimensional coherente | 2.50 | 1.88 | Puntaje parcial: En B1-B3, D1 y D2, revisar la secuencia de operaciones, el modelo y la correspondencia de vistas. Observacion especifica: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
+| Aplicacion de restricciones y dimensiones | 1.50 | 1.13 | Puntaje parcial: En B1, D3 y C2, revisar restricciones, cotas y las cinco verificaciones dimensionales. Observacion especifica: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
+| Precision geometrica y correspondencia con el plano | 2.00 | 1.50 | Puntaje parcial: En C1, C2, D2 y D5, revisar la correspondencia geometrica y las mediciones documentadas. Observacion especifica: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
+| Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Puntaje 0,00: En la identificacion, ruta, nombre del archivo, acceso docente y commit, revisar la organizacion de la entrega. Observacion especifica: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
+| Presentacion y cumplimiento del enunciado | 1.00 | 0.75 | Puntaje parcial: En D1-D5 y el checklist, revisar la integridad de las evidencias y el cumplimiento formal del enunciado. Observacion especifica: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
 
 **Total obtenido: 6.76 / 10,00 %**
 
