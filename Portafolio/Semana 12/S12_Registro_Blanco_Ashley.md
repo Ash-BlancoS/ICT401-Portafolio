@@ -4,9 +4,9 @@
 
 - Estudiante: Ashley  Blanco
 - Grupo: 60
-- Proyecto de Fusion Cloud con acceso docente: [Respuesta]
-- Drawing de referencia de Semana 11: [Respuesta]
-- Modelo utilizado: [Nombre del diseño]
+- Proyecto de Fusion Cloud con acceso docente: Ashley Blanco
+- Drawing de referencia de Semana 11: ICT401_S10_P3_Blanco_Ashley Dibujo
+- Modelo utilizado: ICT401_S09_P3_Blanco_Ashley
 - Laboratorio integrador II-A: [Respuesta]
 - Fase 2 del Proyecto: [Respuesta]
 
@@ -106,7 +106,7 @@ Si la plantilla o la versión de Fusion no permite mostrar un dato, escriba la l
 
 - Formato seleccionado: A3
 - Orientación seleccionada: Horizontal
-- Escala inicial seleccionada: 3:2
+- Escala inicial seleccionada: 2:1
 - Justificación técnica: Todo se lee correctamente
 - Criterio de ISO 5457 aplicado: Uso de un formato normalizado de la serie A (A3)
 - ¿Qué parte de la selección es una decisión didáctica de la plantilla?: ninguna
@@ -149,29 +149,29 @@ Una captura aislada del cuadro de diálogo no demuestra que el formato sea adecu
 
 ### P2.1 · Configuración aplicada
 
-- Formato final de la hoja: [Respuesta]
-- Orientación: [Respuesta]
-- Unidades: [Respuesta]
-- Escala escrita en el cajetín: [Respuesta]
-- Escala configurada en las vistas: [Respuesta]
-- ¿Coinciden ambas escalas?: [Sí/No]
-- Campos completados del cajetín: [Respuesta]
-- Número de identificación del documento: [Respuesta]
-- Fecha de emisión o entrega: [Respuesta]
-- Autor: [Respuesta]
-- Estado o revisión: [Respuesta]
-- Campos normativos no disponibles en Fusion: [Respuesta]
+- Formato final de la hoja: A3
+- Orientación: Horizontal
+- Unidades: mm
+- Escala escrita en el cajetín: 3:2
+- Escala configurada en las vistas: 3:2
+- ¿Coinciden ambas escalas?: Sí
+- Campos completados del cajetín: Referencia técnica, nombre del autor, fecha, aprobador, escala, unidades, título del dibujo y estado del documento.
+- Número de identificación del documento: ICT401_S10_P3_Blanco_Ashley Dibujo
+- Fecha de emisión o entrega: 08/10/2026
+- Autor: Ashley Blanco
+- Estado o revisión: Ejercicio académico
+- Campos normativos no disponibles en Fusion: Código de idioma, total de láminas e índice de revisión.
 
 ### P2.2 · Distribución
 
 | Elemento | Posición final | ¿Está alineado o relacionado correctamente? | Corrección realizada |
 |---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] |
-| Corte o sección | [Respuesta] | [Respuesta] | [Respuesta] |
-| Detalle | [Respuesta] | [Respuesta] | [Respuesta] |
-| Cajetín | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front | Parte superior derecha de la hoja| Sí| no se realizo ninguna|
+| Top | Parte inferior derecha bajo la vista frontal|Sí|no se realizo ninguna|
+| Right | parte superior izquierda|Sí|no se realizo ninguna|
+| Corte o sección |Zona central de la hoja, a la izquierda de Top (A-A)|Sí| no se realizo ninguna|
+| Detalle | Parte superior izquierda (Detalle B)|Sí| no se realizo ninguna|
+| Cajetín | Esquina inferior derecha |Sí| Se editó la información, la distribución y el tamaño|
 
 ### Evidencias P2
 
@@ -403,6 +403,6 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 - [ ] La Fase 2 del Proyecto fue organizada según su rúbrica.
 - [ ] Entregué los últimos cambios mediante el medio oficial indicado.
 
-Nombre sugerido para la entrega: `S12_PlanoFinal_Apellido_Nombre`.
+Nombre sugerido para la entrega: `S12_PlanoFinal_Blanco_Ashley`.
 
 Si realiza una corrección posterior, conserve la versión anterior y utilice una identificación que permita distinguir la nueva entrega.
