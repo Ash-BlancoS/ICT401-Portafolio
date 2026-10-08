@@ -2,8 +2,8 @@
 
 5 al 10 de octubre de 2026.
 
-- Estudiante: [Respuesta]
-- Grupo: [Respuesta]
+- Estudiante: Ashley  Blanco
+- Grupo: 60
 - Proyecto de Fusion Cloud con acceso docente: [Respuesta]
 - Drawing de referencia de Semana 11: [Respuesta]
 - Modelo utilizado: [Nombre del diseño]
@@ -12,7 +12,7 @@
 
 ## Instrucciones
 
-Utilice esta plantilla en la carpeta o plataforma oficial de entrega indicada por la persona docente y guárdela como `S12_Registro_Apellido_Nombre.md`. Sustituya `Apellido_Nombre` por un apellido y un nombre sin espacios ni tildes. Complete cada `[Respuesta]` y agregue las imágenes solicitadas junto con la ficha.
+Utilice esta plantilla en la carpeta o plataforma oficial de entrega indicada por la persona docente y guárdela como `S12_Registro_Blanco_Ashley.md`. Sustituya `Apellido_Nombre` por un apellido y un nombre sin espacios ni tildes. Complete cada `[Respuesta]` y agregue las imágenes solicitadas junto con la ficha.
 
 Conserve las decisiones iniciales y documente las correcciones. No borre una decisión anterior: explique qué cambió, qué problema motivó el cambio y cómo comprobó el resultado.
 
@@ -52,11 +52,12 @@ Use las referencias normativas disponibles en el aula virtual como criterios de 
 
 | Referencia | Apartado o criterio aplicado | Evidencia asociada | Resultado o limitación |
 |---|---|---|---|
-| ISO 5457 | [Respuesta] | [Nombre de imagen o captura] | [Conforme/Limitación] |
-| INTE/ISO 7200:2008 | [Respuesta] | [Nombre de imagen o captura] | [Conforme/Limitación] |
-| ISO 128-1/128-3 | [Respuesta] | [Nombre de imagen o captura] | [Conforme/Limitación] |
-| ISO 129-1 | [Respuesta] | [Nombre de imagen o captura] | [Conforme/Limitación] |
-| ISO 16792:2021 | [Respuesta] | [Nombre de imagen o captura] | [Conforme/Limitación] |
+| ISO 5457 | Hoja de la serie A (A4 210×297 mm o A3 297×420 mm). Recuadro con línea gruesa. Márgenes: mínimo 20 mm a la izquierda y mínimo 7 mm en los demás lados (normalmente 10 mm). Cajetín en la esquina inferior derecha. Señales de centrado de 5 a 10 mm (opcionales). | Se utilizó un formato normalizado de la serie A con márgenes conforme a la norma. Se incorporó un recuadro perimetral y el cajetín fue ubicado en la esquina inferior derecha del plano. | Conforme: margen izquierdo ≥ 20 mm, demás márgenes ≥ 7 mm y cajetín abajo a la derecha. Limitación: señales de centrado, coordenadas y marcas de corte no aplicadas (opcionales). |
+| INTE/ISO 7200:2008 | Campos obligatorios (Tabla 1): propietario legal, número de identificación (16 caracteres), fecha de emisión (10 caracteres) y número de lámina (4 caracteres). Opcionales: índice de revisión, total de láminas, código de idioma. Título de 25/30 caracteres, sin abreviaturas. Cajetín de 180 mm de ancho en A4. | Se completaron los campos obligatorios del cajetín, incluyendo propietario legal, número de identificación, fecha de emisión y número de lámina. El título se redactó sin abreviaturas y siguiendo las recomendaciones de longitud establecidas.| Conforme: los 4 campos obligatorios están completos y el título va sin abreviaturas. Limitación: campos opcionales no usados (indicar cuáles). |
+| ISO 128-1/128-3 | 128-1: dibujo inequívoco, a escala, sin medir directamente sobre el dibujo, apto para copiar (ISO 6428). 128-3: número mínimo de vistas, símbolo del método de proyección (4.5 a 4.10), plano de corte con línea de trazo y punto gruesa y letra repetida en ambas flechas, título "A-A" sobre el corte (6.2), sombreado con líneas finas continuas a 45° (7.2). |Se elaboraron las vistas necesarias para representar la pieza de forma clara, incorporando el símbolo de proyección correspondiente. Además, se realizó un corte identificado con su respectiva denominación y sombreado reglamentario. | Conforme: el símbolo de proyección coincide con la disposición de las vistas y el corte está rotulado. Limitación: altura de letras de vista y corte (√2 veces el texto normal) por verificar. |
+| ISO 129-1 | Elementos de cota (Fig. 5): línea de cota, valor, terminador, línea de extensión. Rotulado Tipo B vertical (5.7.1). Valor paralelo a la línea de cota, sobre ella y cerca del centro, con separación mínima de 2× el grosor de línea (5.7.2). Valores legibles desde abajo o desde la derecha. |Se aplicaron líneas de cota, líneas auxiliares, terminadores y valores dimensionales siguiendo los criterios de legibilidad definidos por la norma. Las dimensiones fueron ubicadas de forma ordenada y sin interferencias visuales.| Conforme: cotas legibles, sin líneas que las crucen. Limitación: la separación de 2× el grosor de línea no se midió en la captura. |
+| ISO 16792:2021 | Método modelo y dibujo (5.3.3): el dibujo lleva borde y cajetín según ISO 5457 e ISO 7200, modelo y dibujo no se contradicen, y el dibujo referencia el modelo. Los valores se obtienen del modelo (5.1.2.2). |Se verificó la coherencia entre el modelo digital y el dibujo generado, incorporando borde y cajetín de acuerdo con las normas aplicables. La información gráfica se mantuvo consistente con la definición del modelo utilizado. | Conforme parcial: se cumple 5.3.3 d) con borde y cajetín. Limitación: no se usa el método solo modelo (5.3.2) ni anotaciones 3D (PMI). |
+
 
 Si la plantilla o la versión de Fusion no permite mostrar un dato, escriba la limitación concreta. Las medidas propias de la actividad deben identificarse como decisiones didácticas, no como dimensiones ISO.
 
@@ -80,51 +81,51 @@ Si la plantilla o la versión de Fusion no permite mostrar un dato, escriba la l
 
 ### P1.1 · Estado de referencia
 
-- Nombre del proyecto Fusion: [Respuesta]
-- Nombre del diseño: [Respuesta]
-- Nombre del Drawing: [Respuesta]
-- Formato actual: [Respuesta]
-- Orientación actual: [Respuesta]
-- Unidades: [Respuesta]
-- Escala actual de la hoja o vistas: [Respuesta]
+- Nombre del proyecto Fusion: Ashley Blanco 
+- Nombre del diseño: ICT401_S09_P3_Blanco_Ashley
+- Nombre del Drawing: ICT401_S10_P3_Blanco_Ashley Dibujo
+- Formato actual: A3
+- Orientación actual: Horizontal
+- Unidades: mm
+- Escala actual de la hoja o vistas: 1:1
 
 ### P1.2 · Diagnóstico
 
 | Problema observado | Ubicación exacta en la hoja | Por qué afecta la entrega | Corrección prevista |
 |---|---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| Medidas repetidas  | Vista de Front y Top | Puede dificultar la lectura del plano | Eliminar la cotas que repitan una misma medida de la pieza
+|Tamaño de letra muy pequeña |Cota del agujero desde la vista Top| Afecta la lectura del plano| Cambiar el tamaño de la letra o cambiar la escala.
+|Información errónea| vista de Top| afecta directamente a la geometría o la forma de la pieza | poner la información correcta|
 
 ### P1.3 · Comparación de alternativas
 
 | Alternativa | Ventaja | Limitación | ¿La selecciono? |
 |---|---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] | [Sí/No] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Sí/No] |
+| Corregir los errores en el plano actual | ocupa poco tiempo | puede que al editarlo, se formen mas problemas | no |
+| Rehacer el dibujo | mejor cumplimiento de las reglas a seguir | necesita mas tiempo  |si|
 
-- Formato seleccionado: [Respuesta]
-- Orientación seleccionada: [Respuesta]
-- Escala inicial seleccionada: [Respuesta]
-- Justificación técnica: [Respuesta]
-- Criterio de ISO 5457 aplicado: [Respuesta]
-- ¿Qué parte de la selección es una decisión didáctica de la plantilla?: [Respuesta]
+- Formato seleccionado: A3
+- Orientación seleccionada: Horizontal
+- Escala inicial seleccionada: 3:2
+- Justificación técnica: Todo se lee correctamente
+- Criterio de ISO 5457 aplicado: Uso de un formato normalizado de la serie A (A3)
+- ¿Qué parte de la selección es una decisión didáctica de la plantilla?: ninguna
 
 ### Evidencias P1
 
 **Qué debe contener cada imagen:**
 
-- `S12_P1_PlanoInicial_Apellido_Nombre.png`: captura del Drawing completo, con nombre de la hoja o del Drawing visible y suficiente contexto para localizar los problemas.
-- `S12_P1_Diagnostico_Apellido_Nombre.png`: una sola lámina con al menos tres problemas marcados y etiquetados sobre el plano.
-- `S12_P1_DecisionFormato_Apellido_Nombre.png`: configuración de hoja o alternativa seleccionada, con formato, orientación o escala identificables.
+- `S12_P1_PlanoInicial_Blanco_Ashley.png`: captura del Drawing completo, con nombre de la hoja o del Drawing visible y suficiente contexto para localizar los problemas.
+- `S12_P1_Diagnostico_Blanco_Ashley.png`: una sola lámina con al menos tres problemas marcados y etiquetados sobre el plano.
+- `S12_P1_DecisionFormato_Blanco_Ashley.png`: configuración de hoja o alternativa seleccionada, con formato, orientación o escala identificables.
 
 Una captura aislada del cuadro de diálogo no demuestra que el formato sea adecuado para el plano.
 
-![P1: Plano inicial](S12_P1_PlanoInicial_Apellido_Nombre.png)
+![P1: Plano inicial](S12_P1_PlanoInicial_Blanco_Ashley.png)
 
-![P1: Diagnóstico](S12_P1_Diagnostico_Apellido_Nombre.png)
+![P1: Diagnóstico](S12_P1_Diagnostico_Blanco_Ashley.png)
 
-![P1: Decisión de formato](S12_P1_DecisionFormato_Apellido_Nombre.png)
+![P1: Decisión de formato](S12_P1_DecisionFormato_Blanco_Ashley.png)
 
 ## P2 — Aplicación de hoja, distribución y cajetín
 
@@ -180,11 +181,11 @@ Una captura aislada del cuadro de diálogo no demuestra que el formato sea adecu
 - `S12_P2_Cajetin_Apellido_Nombre.png`: recorte legible del cajetín completo, incluyendo código ICT401, título, autoría, fecha, unidades y escala.
 - `S12_P2_Correcciones_Apellido_Nombre.png`: comparación antes/después o lámina que muestre una corrección real de distribución.
 
-![P2: Distribución](S12_P2_HojaDistribucion_Apellido_Nombre.png)
+![P2: Distribución](S12_P2_HojaDistribucion_Blanco_Ashley.png)
 
-![P2: Cajetín](S12_P2_Cajetin_Apellido_Nombre.png)
+![P2: Cajetín](S12_P2_Cajetin_Blanco_Ashley.png)
 
-![P2: Corrección](S12_P2_Correcciones_Apellido_Nombre.png)
+![P2: Corrección](S12_P2_Correcciones_Blanco_Ashley.png)
 
 ## P3 — Escala, legibilidad y control de anotaciones
 
@@ -235,11 +236,11 @@ Una captura aislada del cuadro de diálogo no demuestra que el formato sea adecu
 
 Si no cambió la escala, la ficha debe explicar por qué la escala inicial conservaba la legibilidad.
 
-![P3: Hoja completa](S12_P3_HojaCompleta_Apellido_Nombre.png)
+![P3: Hoja completa](S12_P3_HojaCompleta_Blanco_Ashley.png)
 
-![P3: Legibilidad](S12_P3_Legibilidad_Apellido_Nombre.png)
+![P3: Legibilidad](S12_P3_Legibilidad_Blanco_Ashley.png)
 
-![P3: Control de escala](S12_P3_ControlEscala_Apellido_Nombre.png)
+![P3: Control de escala](S12_P3_ControlEscala_Blanco_Ashley.png)
 
 ## P4 — Salidas PDF/DXF y previsualización técnica
 
@@ -285,13 +286,13 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 - `S12_P4_DXF_Apellido_Nombre.png`: DXF abierto o ventana de exportación con nombre y unidades, cuando se solicite.
 - `S12_P4_Comparacion_Apellido_Nombre.png`: una sola lámina con recortes etiquetados `Fusion Drawing`, `PDF` y `DXF`.
 
-![P4: Drawing](S12_P4_Drawing_Apellido_Nombre.png)
+![P4: Drawing](S12_P4_Drawing_Blanco_Ashley.png)
 
-![P4: PDF](S12_P4_PDF_Apellido_Nombre.png)
+![P4: PDF](S12_P4_PDF_Blanco_Ashley.png)
 
-![P4: DXF](S12_P4_DXF_Apellido_Nombre.png)
+![P4: DXF](S12_P4_DXF_Blanco_Ashley.png)
 
-![P4: Comparación](S12_P4_Comparacion_Apellido_Nombre.png)
+![P4: Comparación](S12_P4_Comparacion_Blanco_Ashley.png)
 
 ## P5 — Laboratorio integrador II-A, impresión y entrega
 
@@ -356,13 +357,13 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 - `S12_P5_PrevisualizacionImpresion_Apellido_Nombre.png`: previsualización con papel, orientación, escala y márgenes visibles.
 - `S12_P5_Entrega_Apellido_Nombre.png`: carpeta o plataforma oficial de entrega mostrando ficha, PDF, DXF cuando corresponda y archivos organizados.
 
-![P5: Plano final](S12_P5_PlanoFinal_Apellido_Nombre.png)
+![P5: Plano final](S12_P5_PlanoFinal_Blanco_Ashley.png)
 
-![P5: Verificación](S12_P5_VerificacionModelo_Apellido_Nombre.png)
+![P5: Verificación](S12_P5_VerificacionModelo_Blanco_Ashley.png)
 
-![P5: Impresión](S12_P5_PrevisualizacionImpresion_Apellido_Nombre.png)
+![P5: Impresión](S12_P5_PrevisualizacionImpresion_Blanco_Ashley.png)
 
-![P5: Entrega](S12_P5_Entrega_Apellido_Nombre.png)
+![P5: Entrega](S12_P5_Entrega_Blanco_Ashley.png)
 
 ## Reflexión final
 
