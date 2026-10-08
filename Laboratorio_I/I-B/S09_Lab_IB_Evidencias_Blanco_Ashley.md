@@ -173,7 +173,7 @@ La tabla siguiente registra la evaluacion aplicada exclusivamente a esta ficha y
 | Criterio oficial | Valor maximo | Puntaje obtenido | Observaciones de evaluacion |
 |---|---:|---:|---|
 | Interpretacion correcta del plano o conjunto de vistas | 2.00 | 1.50 | Puntaje parcial: A2 esta incompleta. |
-| Reconstruccion tridimensional coherente | 2.50 | 1.88 | Puntaje parcial: En B1-B3, D1 y D2, revisar la secuencia de operaciones, el modelo y la correspondencia de vistas. Observacion especifica: A2 esta incompleta y no se declaran el acceso docente ni el commit de entrega. |
+| Reconstruccion tridimensional coherente | 2.50 | 1.88 | Puntaje parcial: En B1-B3, D1 y D2, revisar la secuencia de operaciones, el modelo y la correspondencia de vistas. |
 | Aplicacion de restricciones y dimensiones | 1.50 | 1.13 | Puntaje parcial: Faltan datos en A2. |
 | Precision geometrica y correspondencia con el plano | 2.00 | 1.50 | Puntaje parcial: La tabla A2 no permite completar la verificacion. |
 | Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Puntaje 0,00: La ruta es aceptable solo si se reconoce Laboratorio_I/I-B; faltan la declaracion de acceso docente y el commit. |
