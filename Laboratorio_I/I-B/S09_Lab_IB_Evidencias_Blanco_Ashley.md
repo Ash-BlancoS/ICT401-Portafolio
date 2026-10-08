@@ -218,7 +218,7 @@ Completar A2, acceso/commit declarados y ruta/nomenclatura oficial.
 | R5 - Organizacion, nomenclatura y archivo editable | 0.00 |
 | R6 - Presentacion y cumplimiento del enunciado | 0.75 |
 
-R5 se califica con 0,00 porque la ficha no respeta una ruta y nomenclatura oficial, o no presenta evidencia verificable. La revisión se basó exclusivamente en esta ficha y sus evidencias enlazadas o insertadas.
+La ruta es aceptable solo si se reconoce Laboratorio_I/I-B; faltan la declaracion de acceso docente y el commit.
  No se inspeccionaron archivos de Fusion.
 
 ### Calificacion final
