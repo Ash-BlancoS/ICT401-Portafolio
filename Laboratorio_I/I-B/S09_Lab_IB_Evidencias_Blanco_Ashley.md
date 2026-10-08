@@ -224,3 +224,31 @@ La ruta Laboratorio_I/I-B/ se acepta; faltan la declaracion de acceso docente y 
 ### Calificacion final
 
 **8.25 / 10,0 %**
+
+## H. Retroalimentacion del evaluador
+
+### Fortalezas
+
+Las dimensiones y las cinco evidencias estan disponibles.
+
+### Aspectos por corregir
+
+Completar A2, acceso/commit declarados y ruta/nomenclatura oficial.
+
+### Desglose del puntaje
+
+| Criterio | Puntaje obtenido |
+|---|---:|
+| R1 - Interpretacion correcta del plano o conjunto de vistas | 1.50 |
+| R2 - Reconstruccion tridimensional coherente | 2.50 |
+| R3 - Aplicacion de restricciones y dimensiones | 1.50 |
+| R4 - Precision geometrica y correspondencia con el plano | 2.00 |
+| R5 - Organizacion, nomenclatura y archivo editable | 0 |
+| R6 - Presentacion y cumplimiento del enunciado | 0.75 |
+
+La ruta Laboratorio_I/I-B/ se acepta; faltan la declaracion de acceso docente y el commit.
+ No se inspeccionaron archivos de Fusion.
+
+### Calificacion final
+
+**8.25 / 10,0 %**
