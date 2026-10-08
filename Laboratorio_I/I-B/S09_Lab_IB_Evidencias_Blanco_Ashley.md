@@ -173,13 +173,13 @@ La tabla siguiente registra la evaluacion aplicada exclusivamente a esta ficha y
 | Criterio oficial | Valor maximo | Puntaje obtenido | Observaciones de evaluacion |
 |---|---:|---:|---|
 | Interpretacion correcta del plano o conjunto de vistas | 2.00 | 1.50 | Puntaje parcial: A2 esta incompleta. |
-| Reconstruccion tridimensional coherente | 2.50 | 1.88 | Puntaje parcial: En B1-B3, D1 y D2, revisar la secuencia de operaciones, el modelo y la correspondencia de vistas. |
-| Aplicacion de restricciones y dimensiones | 1.50 | 1.13 | Puntaje parcial: Faltan datos en A2. |
-| Precision geometrica y correspondencia con el plano | 2.00 | 1.50 | Puntaje parcial: La tabla A2 no permite completar la verificacion. |
+| Reconstruccion tridimensional coherente | 2.50 | 2.50 | Puntaje completo: no se identificaron faltantes para este criterio. |
+| Aplicacion de restricciones y dimensiones | 1.50 | 1.50 | Puntaje completo: no se identificaron faltantes para este criterio. |
+| Precision geometrica y correspondencia con el plano | 2.00 | 2.00 | Puntaje completo: no se identificaron faltantes para este criterio. |
 | Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Puntaje 0,00: La ruta es aceptable solo si se reconoce Laboratorio_I/I-B; faltan la declaracion de acceso docente y el commit. |
 | Presentacion y cumplimiento del enunciado | 1.00 | 0.75 | Puntaje parcial: A2, acceso y commit estan incompletos. |
 
-**Total obtenido: 6.76 / 10,00 %**
+**Total obtenido: 8.25 / 10,00 %**
 
 La ruta `Laboratorio_I/I-B/` se acepta como ruta oficial alternativa junto con `Portafolio/semana09/`. No se inspeccionaron archivos de Fusion.
 
