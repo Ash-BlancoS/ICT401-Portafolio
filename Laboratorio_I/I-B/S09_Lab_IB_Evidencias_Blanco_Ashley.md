@@ -218,7 +218,7 @@ Completar A2, acceso/commit declarados y ruta/nomenclatura oficial.
 | R5 - Organizacion, nomenclatura y archivo editable | 0 |
 | R6 - Presentacion y cumplimiento del enunciado | 0.75 |
 
-La ruta es aceptable solo si se reconoce Laboratorio_I/I-B; faltan la declaracion de acceso docente y el commit.
+La ruta Laboratorio_I/I-B/ se acepta; faltan la declaracion de acceso docente y el commit.
  No se inspeccionaron archivos de Fusion.
 
 ### Calificacion final
