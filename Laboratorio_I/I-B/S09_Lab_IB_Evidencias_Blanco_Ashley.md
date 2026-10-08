@@ -177,7 +177,7 @@ La tabla siguiente registra la evaluacion aplicada exclusivamente a esta ficha y
 | Aplicacion de restricciones y dimensiones | 1.50 | 1.50 | Puntaje completo: no se identificaron faltantes para este criterio. |
 | Precision geometrica y correspondencia con el plano | 2.00 | 2.00 | Puntaje completo: no se identificaron faltantes para este criterio. |
 | Organizacion, nomenclatura y archivo editable | 1.00 | 0.75 | Puntaje parcial: La ruta Laboratorio_I/I-B/ se acepta; faltan la declaracion de acceso docente y el commit. |
-| Presentacion y cumplimiento del enunciado | 1.00 | 0.75 | Puntaje parcial: Checklist: 12 de 12 casillas marcadas correctamente; 0 sin marcar; 0 con marcas no estandarizadas. A2, acceso y commit estan incompletos. |
+| Presentacion y cumplimiento del enunciado | 1.00 | 0.75 | Puntaje parcial: Checklist: 12 de 12 casillas tienen alguna marca; 0 sin marcar. A2, acceso y commit estan incompletos. |
 
 **Total obtenido: 9.00 / 10,00 %**
 
