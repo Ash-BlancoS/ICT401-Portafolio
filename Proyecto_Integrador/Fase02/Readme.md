@@ -14,8 +14,11 @@ ICT401 – Dibujo Técnico Asistido por Computadora · Proyecto integrador (7 %,
 
 **Archivo principal en Fusion Cloud:**
 
-- ICT401_F02_Tapa/P02
-- ICT401_F02_Gancho/P01
+- ICT401_F02_Tapa/P02:
+https://myuna182.autodesk360.com/g/projects/202607211116718881/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28ueFVMUzFOSkFUeW01Tmw0ZXU5cFQ4QQ/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOlJENERqZVRqUndlM1NyS0J1S29ERXc/overview
+
+- ICT401_F02_Gancho/P01:
+https://myuna182.autodesk360.com/g/projects/202607211116718881/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28ueFVMUzFOSkFUeW01Tmw0ZXU5cFQ4QQ/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOkdSNHc3QWR5UmdtRkROZHplN2UxVlE/overview
 
 ## 1. Resumen del avance
 
@@ -31,15 +34,15 @@ El modelo original se corrigió en tres aspectos: la altura total y el ancho de 
 | Altura total de P01 | 138 mm | 200.416 mm | El clip que sostiene a P02 no encajaba |
 | Ancho de P01 | 200 mm | 220 mm | Mismo problema de encaje del clip |
 
-![Figura 1](figura01_modelo_inicial.jpeg.)
+![Figura 1](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/imagenes/figura01_modelo_inicial.jpeg)
 
 *Figura 1. Modelo inicial de la base, con los cinco bocetos de la exploración.*
 
-![Figura 2](figuras/figura02_gancho_a_medicion.jpeg)
+![Figura 2](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/imagenes/figura02_gancho_a_medicion.jpeg)
 
 *Figura 2. Base/P01 Gancho A: medida original de las barras centrales (distancia de 26.542 mm entre aristas de 134.258 mm y 68.00 mm).*
 
-![Figura 3](figuras/figura03_gancho_a02_medicion.jpeg)
+![Figura 3](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/imagenes/figura03_gancho_a02_medicion.jpeg)
 
 *Figura 3. Base/P01 Gancho A..02: medidas finales de las barras centrales (distancia de 27.042 mm entre aristas de 142.25 mm y 134.40 mm).*
 
@@ -98,7 +101,7 @@ Pendiente para la Fase 3: vincular ancho_canal_cables a la geometría que depend
 
 **Dimensiones finales de P01 (Base/P01 Gancho A..02)**
 
-![Figura 4](figuras/figura04_base_isometrica.png)
+![Figura 4](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/imagenes/figura04_base_isometrica.png)
 
 *Figura 4. Base P01 (ICT401_F02/Gancho/P01) en vista isométrica, con el historial de bocetos y operaciones.*
 
@@ -143,7 +146,7 @@ Pendiente para la Fase 3: vincular ancho_canal_cables a la geometría que depend
 
 **Dimensiones finales de P02 (Tapa/P02)**
 
-![Figura 5](figuras/figura05_tapa_p02.jpeg)
+![Figura 5](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/imagenes/figura05_tapa_p02.jpeg)
 
 *Figura 5. Tapa/P02 con sus ranuras y el clip inferior, con la línea de tiempo de operaciones.*
 
@@ -178,27 +181,27 @@ Pendiente para la Fase 3: vincular ancho_canal_cables a la geometría que depend
 
 **Captura antes (con el valor visible):** Figura 6
 
-![Figura 6](figuras/figura02_gancho_a_medicion.jpeg)
+![Figura 6](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/imagenes/figura06_antes_del_cambio.jpeg)
 
 *Figura 6. Antes del cambio: medida original de las barras centrales (distancia de 26.542 mm entre aristas de 134.258 mm y 68.00 mm).*
 
 **Captura después:** Figura 7
 
-![Figura 7](figuras/figura03_gancho_a02_medicion.jpeg)
+![Figura 7](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/imagenes/figura07_despues_del_cambio.jpeg)
 
 *Figura 7. Después del cambio: medidas finales de las barras centrales (distancia de 27.042 mm entre aristas de 142.25 mm y 134.40 mm); el Boceto 14 (Boceto N5) se actualizó automáticamente.*
 
 ## 5. Verificaciones geométricas
 
-![Figura 8](figuras/figura08_ensamblaje.jpeg)
+![Figura 8](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/imagenes/figura08_ensamblaje.jpeg)
 
 *Figura 8. Ensamblaje de Tapa/P02 con Base/P01 Gancho A, usado para revisar el encaje (R03). Pendiente: captura del resultado de interferencia.*
 
-![Figura 9](figuras/figura09_seccion_frontal.jpeg)
+![Figura 9](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/imagenes/figura09_seccion_frontal.jpeg)
 
 *Figura 9. Sección del ensamblaje en vista frontal: la base P01 (rayado rosa) dentro de la tapa P02 (rayado amarillo).*
 
-![Figura 10](figuras/figura10_seccion_derecha.jpeg)
+![Figura 10](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/imagenes/figura10_seccion_derecha.jpeg)
 
 *Figura 10. Sección del ensamblaje en vista derecha: la base P01 (rayado rosa) dentro de la tapa P02 (rayado amarillo).*
 
@@ -223,3 +226,6 @@ Pendiente para la Fase 3: vincular ancho_canal_cables a la geometría que depend
 - Actividades para el ensamblaje y la validación: pendiente de acordar con el docente.
 
  ## 9. Imágenes de las piezas de los modelos
+![Gancho/P01](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/modelos/ICT401_F02_Gancho_P01.jpeg)
+![Tapa/P02](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/modelos/ICT401_F02_Tapa_P02.jpeg)
+
