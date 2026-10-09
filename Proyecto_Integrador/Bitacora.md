@@ -9,3 +9,13 @@
 | 22/09/2026 |Organizar el trabajo para la siguiente fase del proyecto. | Se distribuyeron las actividades entre las integrantes del grupo y se definió quién realizaría cada pieza y quién revisaría el ensamble en Fusion 360. |
 | 23/09/2026 |Comparar las alternativas y seleccionar el diseño final. | Se compararon las dos opciones según los requisitos definidos y se explicó por qué se eligió el diseño que continuaría en el proyecto.|
 | 23/09/2026 |Revisar y finalizar el documento de la Fase 1. | Se revisaron los riesgos del proyecto, las fuentes utilizadas y la declaración de originalidad. Finalmente, se corrigieron errores de redacción, ortografía y coherencia antes de terminar el documento. |
+
+
+# Fase 02 #
+| Fecha | Objetivo | Actividad |
+|---|---|---|
+| 19/09/2026 | Lectura de las instrucciones de la fase 02 |Lectura de las instrucciones de la Fase 02 y anotación de lo que se debe entregar.|
+| 06/10/2026 | Realizar los primeros diseños en 3D en Fusion 360|Realizar los primeros diseños en 3D en Fusion 360 de la P01 y P02, definiendo medidas generales y bocetos iniciales del sistema de encaje.|
+| 06/10/2026 | Generar alternativas para el gancho de agarre de P01|Se modelaron otras dos alternativas de gancho para P01. Se evaluaron y se escogió la Alternativa A por mejor agarre y funcionalidad. Se modeló la Alternativa A en P01 y  P02.|
+| 07/10/2026 | Ajustar medidas y mejorar estética de la pieza|Se ajustaron las medidas de P01 y P02 para que encajaran correctamente. Se agregaron chaflanes y redondeos para mejorar la estética y el funcionamiento.|
+| 08/10/2026 |Documentar Fase 02|Se realizó la ficha técnica de la Fase 02 con la recopilación de capturas, piezas iniciales y resultados finales.|
