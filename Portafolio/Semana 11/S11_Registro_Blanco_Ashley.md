@@ -4,9 +4,9 @@
 
 - Estudiante: Ashley
 - Grupo: 60
-- Carpeta o proyecto de Fusion Cloud con acceso docente: [Respuesta]
-- Drawing o modelo de referencia de Semana 10: [Respuesta]
-- Modelo utilizado: [Nombre del diseño]
+- Carpeta o proyecto de Fusion Cloud con acceso docente: Ashley Blanco
+- Drawing o modelo de referencia de Semana 10: ICT401_S10_P3_Blanco_Ashley Dibujo
+- Modelo utilizado: ICT401_S09_P3_Blanco_Ashley
 
 ## Instrucciones
 
@@ -38,33 +38,32 @@ Trabaje sobre un modelo o plano desarrollado en Semana 10. Use milímetros, orie
 
 ### P1.1 · Modelo utilizado
 
-- Nombre del diseño en Fusion: [Respuesta]
-- Pieza de referencia y semana de origen: [Respuesta]
-- Características interiores observadas: [Respuesta]
+- Nombre del diseño en Fusion: ICT401_S09_P3_Blanco_Ashley
+- Pieza de referencia y semana de origen: ICT401_S09_P3_Blanco_Ashley
+- Características interiores observadas: Un agujero y una ranura
 
 ### P1.2 · Análisis de vistas
 
 | Característica | Vista donde aparece | ¿Se comunica claramente? | Problema detectado |
 |---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] |
+| 1) Agujero | Vista superior | si |ninguno|
+| 2) Ranura | Vista superior| si | Ninguno |
+| 3) Escalón| Todas, menos inferior | Sí|  Ninguno|
 
 ### P1.3 · Comparación de alternativas
 
 | Alternativa | Ventaja | Limitación |
 |---|---|---|
-| Vista ordinaria | [Respuesta] | [Respuesta] |
-| Vista con líneas ocultas | [Respuesta] | [Respuesta] |
-| Vista seccionada | [Respuesta] | [Respuesta] |
+| Vista ordinaria | Fácil de leer lo externo |Oculta lo interno|
+| Vista con líneas ocultas | Muestra lo que está detrás| puede confundir |
+| Vista seccionada |Se ve las características del agujero | requiere de un corte |
 
 ### P1.4 · Decisión de representación
 
-- Tipo de representación elegido: [Respuesta]
-- Vista desde la que se realizará: [Respuesta]
-- Posición aproximada del plano de corte: [Respuesta]
-- Justificación técnica: [Respuesta]
+- Tipo de representación elegido: Sección
+- Vista desde la que se realizará: Top
+- Posición aproximada del plano de corte: En el centro del agujero
+- Justificación técnica: Se puede ver la forma del agujero desde la vista Derecha
 
 ### Evidencias P1
 
@@ -101,32 +100,31 @@ P1 no requiere crear un `Drawing`; la decisión se registra antes de pasar a la 
 
 | Elemento | Decisión aplicada |
 |---|---|
-| Vista donde se indica el corte | [Respuesta] |
-| Posición del plano de corte | [Respuesta] |
-| Dirección de observación | [Respuesta] |
-| Identificación | [Respuesta] |
-| Tipo de corte o sección | [Respuesta] |
+| Vista donde se indica el corte | Top |
+| Posición del plano de corte | Right |
+| Dirección de observación | Right |
+| Identificación | A-A|
+| Tipo de corte o sección | Total |
 
 ### P2.2 · Rayado
 
-- ¿Qué superficies quedan cortadas?: [Respuesta]
-- ¿Qué superficies no deben rayarse?: [Respuesta]
-- ¿Cómo diferenció zonas o componentes adyacentes?: [Respuesta]
-- ¿Qué separación utilizó entre las líneas de rayado?: [Respuesta]
-- ¿Cómo evitó que el rayado invadiera textos o cotas?: [Respuesta]
+- ¿Qué superficies quedan cortadas?: Solido
+- ¿Qué superficies no deben rayarse?: agujero o ranura
+- ¿Cómo diferenció zonas o componentes adyacentes?: cambiar ángulo de las rayas
+- ¿Qué separación utilizó entre las líneas de rayado?: 2mm aprox
+- ¿Cómo evitó que el rayado invadiera textos o cotas?: dejar espacio entre las rayas y textos
 
 ### P2.3 · Diferencia conceptual
 
 Explique con sus palabras la diferencia entre un corte y una sección.
 
-[Respuesta]
+Una sección se usa para ver partes internas de la pieza, no cambia su forma. El corte corta la pieza, si cambia su forma
 
 ### P2.4 · Correcciones
 
 | Problema detectado | Corrección aplicada | Motivo de la corrección |
 |---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] |
+| ninguno | --| -- |
 
 ### Evidencias P2
 
@@ -162,38 +160,38 @@ Estas evidencias no tienen que ser capturas del espacio `Drawing`; el `Drawing` 
 
 ### P3.1 · Configuración
 
-- Drawing utilizado: [Respuesta]
+- Drawing utilizado: ICT401_S10_P3_Blanco_Ashley Dibujo
 - Espacio de trabajo utilizado: `Drawing`
 - Herramienta utilizada: `Section View`
-- Vista de origen: [Respuesta]
-- Tipo de corte: [Respuesta]
-- Escala: [Respuesta]
-- Identificación: [Respuesta]
-- Dirección de observación: [Respuesta]
+- Vista de origen: top
+- Tipo de corte: total
+- Escala: 2:1
+- Identificación:A–A
+- Dirección de observación: Right
 
 ### P3.2 · Verificación con el modelo
 
 | Elemento | ¿Coincide con el modelo? | Evidencia o corrección |
 |---|---|---|
-| Cavidad o agujero | [Respuesta] | [Respuesta] |
-| Ranura o escalón | [Respuesta] | [Respuesta] |
-| Contorno exterior | [Respuesta] | [Respuesta] |
-| Superficies rayadas | [Respuesta] | [Respuesta] |
-| Líneas visibles | [Respuesta] | [Respuesta] |
+| Cavidad o agujero | Sí | Coincide|
+| Ranura o escalón | Sí| Coincide|
+| Contorno exterior | Sí | Coincide |
+| Superficies rayadas | Sí |Coincide|
+| Líneas visibles | Sí | Coincide |
 
 ### P3.3 · Líneas ocultas
 
-- ¿Qué líneas ocultas dejaron de ser necesarias?: [Respuesta]
-- ¿Qué líneas visibles debieron conservarse?: [Respuesta]
-- ¿Detectó alguna contradicción entre vistas?: [Respuesta]
-- ¿Cómo verificó la dirección de observación?: [Respuesta]
+- ¿Qué líneas ocultas dejaron de ser necesarias?: Las del Agujero
+- ¿Qué líneas visibles debieron conservarse?: Las de la Ranura
+- ¿Detectó alguna contradicción entre vistas?: no
+- ¿Cómo verificó la dirección de observación?: viendo el modelo en 3D
 
 ### P3.4 · Errores y correcciones
 
 | Error detectado | Evidencia que lo reveló | Corrección aplicada |
 |---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] |
+| ninguno |-- |-- |
+
 
 ### Evidencias P3
 
@@ -228,21 +226,21 @@ La segunda imagen debe permitir comparar modelo y plano, no solo mostrar una pan
 
 ### P4.1 · Detalle ampliado
 
-- Zona seleccionada: [Respuesta]
-- Motivo de la ampliación: [Respuesta]
-- Letra asignada: [Respuesta]
-- Escala del detalle: [Respuesta]
-- Vista de origen: [Respuesta]
+- Zona seleccionada: Agujero
+- Motivo de la ampliación: Que se viera mejor la sección del agujero
+- Letra asignada: B
+- Escala del detalle: 2:1
+- Vista de origen: Right
 - Herramienta utilizada en `Drawing`: `Detail View`
 - Espacio de trabajo utilizado: `Drawing`
 
 ### P4.2 · Tolerancia introductoria
 
-- Dimensión nominal: [Respuesta]
-- Tolerancia aplicada: [Respuesta]
-- Límite superior: [Respuesta]
-- Límite inferior: [Respuesta]
-- Motivo funcional o indicación del enunciado: [Respuesta]
+- Dimensión nominal: no se añadió una toleracia
+- Tolerancia aplicada: ---
+- Límite superior: ---
+- Límite inferior:---
+- Motivo funcional o indicación del enunciado: ---
 
 **Criterio de cálculo:** en la fórmula `D_min = D_N - T_inf`, `T_inf` se registra como magnitud positiva de la desviación inferior. Si la desviación se escribe con signo, por ejemplo `-0,10 mm`, el límite se calcula como `D_N + (-0,10 mm)`.
 
@@ -250,15 +248,15 @@ La segunda imagen debe permitir comparar modelo y plano, no solo mostrar una pan
 
 Interprete el ejemplo didáctico `20 ± 0,1 mm`.
 
-- Valor nominal: [Respuesta]
-- Valor máximo permitido: [Respuesta]
-- Valor mínimo permitido: [Respuesta]
+- Valor nominal: 20 mm
+- Valor máximo permitido: 20,1 mm
+- Valor mínimo permitido: 19,9 mm
 
 ### P4.4 · Decisión técnica
 
 ¿La tolerancia era necesaria para este plano? Justifique sin inventar requisitos de fabricación.
 
-[Respuesta]
+-Para mi no fue necesaria
 
 ### Evidencias P4
 
@@ -294,35 +292,35 @@ No basta con escribir una tolerancia sin justificarla.
 
 ### P5.1 · Lista de comprobación
 
-- [ ] El corte atraviesa la característica relevante.
-- [ ] La dirección de observación es correcta.
-- [ ] Las letras y flechas son coherentes.
-- [ ] El rayado representa únicamente superficies cortadas.
-- [ ] Las áreas adyacentes se diferencian.
-- [ ] Se eliminaron líneas ocultas innecesarias.
-- [ ] Las cotas siguen siendo legibles.
-- [ ] El detalle tiene letra y escala.
-- [ ] La tolerancia está justificada o se documentó por qué no se agregó.
-- [ ] El plano coincide con el modelo 3D.
-- [ ] No hay superposiciones ni información redundante.
+- [ x] El corte atraviesa la característica relevante.
+- [ x] La dirección de observación es correcta.
+- [x ] Las letras y flechas son coherentes.
+- [x ] El rayado representa únicamente superficies cortadas.
+- [ x] Las áreas adyacentes se diferencian.
+- [ x] Se eliminaron líneas ocultas innecesarias.
+- [ x] Las cotas siguen siendo legibles.
+- [x ] El detalle tiene letra y escala.
+- [x ] La tolerancia está justificada o se documentó por qué no se agregó.
+- [x ] El plano coincide con el modelo 3D.
+- [ x] No hay superposiciones ni información redundante.
 
 ### P5.2 · Revisión por pares
 
 | Criterio revisado | Observación recibida | Corrección realizada |
 |---|---|---|
-| Corte o sección | [Respuesta] | [Respuesta] |
-| Rayado | [Respuesta] | [Respuesta] |
-| Detalle | [Respuesta] | [Respuesta] |
-| Tolerancia | [Respuesta] | [Respuesta] |
-| Legibilidad | [Respuesta] | [Respuesta] |
+| Corte o sección | el plano se ve un poco lejos | ninguna |
+| Rayado | todo se ve bien | ninguna |
+| Detalle | el nombre se une on la cota de la vista Right| ninguna|
+| Tolerancia | no hay tolerancia| ninguna|
+| Legibilidad |Se lee todo correctamente| ninguna|
 
 ### P5.3 · Preparación para la Prueba Corta 2
 
-- Una situación en la que conviene una sección: [Respuesta]
-- Diferencia entre corte y sección: [Respuesta]
-- Función del rayado: [Respuesta]
-- Función de las flechas del plano de corte: [Respuesta]
-- Significado de una tolerancia bilateral: [Respuesta]
+- Una situación en la que conviene una sección:Cuando hay cavidades internas que no se ven en vistas normales
+- Diferencia entre corte y sección: Una sección se usa para ver partes internas de la pieza, no cambia su forma. El corte corta la pieza, si cambia su forma.
+- Función del rayado: Indicar qué superficies fueron cortadas
+- Función de las flechas del plano de corte: indicar donde esta línea del corte
+- Significado de una tolerancia bilateral: Permite variar hacia arriba y hacia abajo del valor nominal
 
 ### Evidencias P5
 
@@ -341,23 +339,23 @@ Estas imágenes deben respaldar el checklist y las correcciones registradas en l
 
 ### 1. ¿Por qué fue necesario utilizar un corte o una sección?
 
-[Respuesta]
+Para mostrar claramente el agujero 
 
 ### 2. ¿Qué diferencia existe entre corte y sección?
 
-[Respuesta]
+Una sección se usa para ver partes internas de la pieza, no cambia su forma. El corte corta la pieza, si cambia su forma.
 
 ### 3. ¿Qué característica fue más difícil de representar?
 
-[Respuesta]
+ninguna
 
 ### 4. ¿Qué corrección mejoró más la legibilidad del plano?
 
-[Respuesta]
+ninguna
 
 ### 5. ¿Qué aprendí sobre tolerancias introductorias?
 
-[Respuesta]
+Que sirven para dar un rango aceptable de medida, en piezas que deben encajar
 
 ## Referencia de Fusion
 
@@ -365,12 +363,12 @@ Para los comandos del software consulte la documentación oficial vigente de Aut
 
 ## Cierre de la ficha
 
-- [ ] Completé las respuestas de P1 a P5.
-- [ ] Incorporé las evidencias con la nomenclatura solicitada.
-- [ ] Las imágenes se visualizan correctamente desde GitHub.
-- [ ] El modelo y el Drawing están disponibles en Fusion Cloud con acceso docente.
-- [ ] Documenté las correcciones sin borrar decisiones iniciales.
-- [ ] Publiqué los últimos cambios en GitHub.
+- [ x] Completé las respuestas de P1 a P5.
+- [x ] Incorporé las evidencias con la nomenclatura solicitada.
+- [x ] Las imágenes se visualizan correctamente desde GitHub.
+- [x ] El modelo y el Drawing están disponibles en Fusion Cloud con acceso docente.
+- [x ] Documenté las correcciones sin borrar decisiones iniciales.
+- [ x] Publiqué los últimos cambios en GitHub.
 
 Commit sugerido: `S11 ejercicios cortes secciones Blanco Ashley`.
 
