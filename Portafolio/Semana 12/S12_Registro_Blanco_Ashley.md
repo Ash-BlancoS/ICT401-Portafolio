@@ -7,8 +7,11 @@
 - Proyecto de Fusion Cloud con acceso docente: Ashley Blanco
 - Drawing de referencia de Semana 11: ICT401_S10_P3_Blanco_Ashley Dibujo
 - Modelo utilizado: ICT401_S09_P3_Blanco_Ashley
-- Laboratorio integrador II-A: [Respuesta]
-- Fase 2 del Proyecto: [Respuesta]
+- Laboratorio integrador II-A: ICT401-Portafolio/Laboratorio_II
+/II-A/
+- Fase 2 del Proyecto: ICT401-Portafolio/Proyecto_Integrador/Fase02
+/Readme.md
+
 
 ## Instrucciones
 
@@ -208,23 +211,23 @@ Una captura aislada del cuadro de diálogo no demuestra que el formato sea adecu
 
 ### P3.1 · Control de escala
 
-- Escala antes de la revisión: [Respuesta]
-- Escala después de la revisión: [Respuesta]
-- ¿Se cambió la escala?: [Sí/No]
-- Motivo de la decisión: [Respuesta]
-- ¿La escala del cajetín coincide?: [Sí/No]
-- ¿Las cotas necesarias aparecen una sola vez, salvo indicación auxiliar?: [Sí/No]
-- ¿Las cotas se ubican en la vista más clara y evitan líneas ocultas?: [Sí/No]
+- Escala antes de la revisión: 3:2
+- Escala después de la revisión: 3:2
+- ¿Se cambió la escala?: No
+- Motivo de la decisión: no se encontraron mas problemas por lo que no se corrigió nada
+- ¿La escala del cajetín coincide?: Sí
+- ¿Las cotas necesarias aparecen una sola vez, salvo indicación auxiliar?: Sí
+- ¿Las cotas se ubican en la vista más clara y evitan líneas ocultas?: Sí
 
 ### P3.2 · Control de legibilidad
 
 | Elemento revisado | Problema encontrado | Corrección | Resultado verificado |
 |---|---|---|---|
-| Cotas | [Respuesta] | [Respuesta] | [Respuesta] |
-| Texto y notas | [Respuesta] | [Respuesta] | [Respuesta] |
-| Corte o sección | [Respuesta] | [Respuesta] | [Respuesta] |
-| Detalle | [Respuesta] | [Respuesta] | [Respuesta] |
-| Tolerancia | [Respuesta] | [Respuesta] | [Respuesta] |
+| Cotas | ninguna | ninguna  | no se repite nada |
+| Texto y notas | ninguna  | ninguna  | se leen sin esfuerzo |
+| Corte o sección |ninguna  | ninguna  | se correctamente |
+| Detalle | esta muy cerca de la vista Right | mover un poco mas abajo el detalle | se ve mejor |
+| Tolerancia | ninguna | ninguna| no hay toleracias |
 
 ### Evidencias P3
 
@@ -274,8 +277,8 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 
 | Archivo | Comando utilizado | Unidades | Hoja/orientación | ¿Coincide con Drawing? | Corrección |
 |---|---|---|---|---|---|
-| PDF | [Respuesta] | [Respuesta] | [Respuesta] | [Sí/No] | [Respuesta] |
-| DXF | [Respuesta] | [Respuesta] | [Respuesta] | [Sí/No/No solicitado] | [Respuesta] |
+| PDF | Exportar→ PDF  | mm | 420x297mm/Horinzonatal| Sí | ninguan |
+| DXF | Exportar→ DXF|--| no se pude abrir el archivo | -- | --|
 
 ### Evidencias P4
 
@@ -290,7 +293,7 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 
 ![P4: PDF](S12_P4_PDF_Blanco_Ashley.png)
 
-![P4: DXF](S12_P4_DXF_Blanco_Ashley.png)
+![P4: DXF](S12_PlanoFinal_Blanco_Ashley.dxf)
 
 ![P4: Comparación](S12_P4_Comparacion_Blanco_Ashley.png)
 
@@ -320,33 +323,33 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 
 ### P5.1 · Checklist
 
-- [ ] El modelo y el Drawing corresponden a la misma pieza.
-- [ ] El formato y la orientación son adecuados.
-- [ ] El cajetín está completo y legible.
-- [ ] El formato, marco y zona de identificación fueron revisados con el criterio de ISO 5457.
-- [ ] Los campos del cajetín fueron contrastados con INTE/ISO 7200:2008 y las limitaciones quedaron registradas.
-- [ ] La escala del cajetín coincide con la configuración del plano.
-- [ ] Las vistas están alineadas y no falta información necesaria.
-- [ ] El corte, la sección y el detalle conservan su identificación.
-- [ ] Las cotas y tolerancias son legibles y no están superpuestas.
-- [ ] Las cotas necesarias aparecen una sola vez, salvo indicación auxiliar, y se revisaron con ISO 129-1.
-- [ ] El PDF abre correctamente y coincide con el Drawing.
+- [x ] El modelo y el Drawing corresponden a la misma pieza.
+- [x ] El formato y la orientación son adecuados.
+- [x ] El cajetín está completo y legible.
+- [x ] El formato, marco y zona de identificación fueron revisados con el criterio de ISO 5457.
+- [x ] Los campos del cajetín fueron contrastados con INTE/ISO 7200:2008 y las limitaciones quedaron registradas.
+- [x ] La escala del cajetín coincide con la configuración del plano.
+- [ x] Las vistas están alineadas y no falta información necesaria.
+- [ x] El corte, la sección y el detalle conservan su identificación.
+- [x ] Las cotas y tolerancias son legibles y no están superpuestas.
+- [x ] Las cotas necesarias aparecen una sola vez, salvo indicación auxiliar, y se revisaron con ISO 129-1.
+- [x ] El PDF abre correctamente y coincide con el Drawing.
 - [ ] El DXF fue generado y revisado cuando corresponde.
-- [ ] La previsualización de impresión no presenta recortes ni deformaciones.
-- [ ] La ficha y las imágenes tienen la nomenclatura solicitada.
-- [ ] El enlace de Fusion Cloud tiene acceso docente.
-- [ ] Modelo, Drawing y archivos exportados no presentan contradicciones y la revisión o versión quedó identificada.
-- [ ] La Fase 2 del Proyecto fue entregada según su enunciado.
+- [x ] La previsualización de impresión no presenta recortes ni deformaciones.
+- [x ] La ficha y las imágenes tienen la nomenclatura solicitada.
+- [ x] El enlace de Fusion Cloud tiene acceso docente.
+- [x ] Modelo, Drawing y archivos exportados no presentan contradicciones y la revisión o versión quedó identificada.
+- [x ] La Fase 2 del Proyecto fue entregada según su enunciado.
 
 ### P5.2 · Revisión por pares
 
 | Criterio | Observación recibida | Corrección aplicada |
 |---|---|---|
-| Formato y orientación | [Respuesta] | [Respuesta] |
-| Cajetín | [Respuesta] | [Respuesta] |
-| Escala y legibilidad | [Respuesta] | [Respuesta] |
-| Distribución de vistas | [Respuesta] | [Respuesta] |
-| PDF/DXF e impresión | [Respuesta] | [Respuesta] |
+| Formato y orientación | estaba horizontal |ninguna|
+| Cajetín | Algunos datos estaban incompletos| [Se completó con nombre, fecha, escala y unidades |
+| Escala y legibilidad | [Las cotas quedaban muy pequeñas| cambiar la escala|
+| Distribución de vistas | Algunas vistas estaban demasiado juntas | mover algunas vistas|
+| PDF/DXF e impresión | No se pude abrir el DXF| ninguna |
 
 ### Evidencias P5
 
@@ -369,39 +372,39 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 
 ### 1. ¿Por qué el formato seleccionado es adecuado para este plano?
 
-[Respuesta]
+Porque el tamaño de hoja y la orientación permiten que todas las vistas, cortes y detalles se acomoden sin quedar apretados ni ilegibles
 
 ### 2. ¿Qué información del cajetín identifica o contextualiza el plano?
 
-[Respuesta]
+El nombre del diseño, nombre  de quien lo hizo, la fecha, la escala y las unidades
 
 ### 3. ¿Qué problema de escala o legibilidad detecté y cómo lo resolví?
 
-[Respuesta]
+Al inicio las cotas quedaban muy pequeñas. Lo resolví ajustando la escala y moviendo las cotas para que se leyeran sin cruzarse 
 
 ### 4. ¿Qué diferencia encontré entre el Drawing y la salida exportada?
 
-[Respuesta]
+Que las lineas de la exportada se veían mas delgadas que las del drawing
 
 ### 5. ¿Cómo comprobé que la impresión no deformara ni recortara el plano?
 
-[Respuesta]
+Abrí el PDF fuera de Fusion y revisé que el papel, la orientación y las cotas se mantuvieran igual que en el Drawing
 
 ### 6. ¿Qué corrección mejoró más la calidad del plano?
 
-[Respuesta]
+Cambiar la escala, mover la posición de algunas vistas y quitar cotas repetidas
 
 ## Cierre de la ficha
 
-- [ ] Completé las respuestas de P1 a P5.
-- [ ] Incorporé todas las evidencias con la nomenclatura solicitada.
-- [ ] Las imágenes se visualizan correctamente desde el medio oficial de entrega.
-- [ ] El PDF fue abierto y comparado con el Drawing.
-- [ ] El DXF fue revisado cuando correspondía.
-- [ ] El modelo y el Drawing están disponibles en Fusion Cloud con acceso docente.
-- [ ] Documenté las correcciones sin borrar decisiones iniciales.
-- [ ] La Fase 2 del Proyecto fue organizada según su rúbrica.
-- [ ] Entregué los últimos cambios mediante el medio oficial indicado.
+- [ x] Completé las respuestas de P1 a P5.
+- [ x] Incorporé todas las evidencias con la nomenclatura solicitada.
+- [ x] Las imágenes se visualizan correctamente desde el medio oficial de entrega.
+- [ x] El PDF fue abierto y comparado con el Drawing.
+- [ x] El DXF fue revisado cuando correspondía.
+- [ x] El modelo y el Drawing están disponibles en Fusion Cloud con acceso docente.
+- [ x] Documenté las correcciones sin borrar decisiones iniciales.
+- [ x] La Fase 2 del Proyecto fue organizada según su rúbrica.
+- [ x] Entregué los últimos cambios mediante el medio oficial indicado.
 
 Nombre sugerido para la entrega: `S12_PlanoFinal_Blanco_Ashley`.
 
