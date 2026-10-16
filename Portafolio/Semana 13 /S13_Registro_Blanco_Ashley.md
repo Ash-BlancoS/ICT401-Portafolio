@@ -174,7 +174,7 @@ Registre en cada lección qué componente seleccionó, qué comando utilizó y q
 1. ¿Qué diferencia encontró entre insertar piezas y construir un ensamblaje con relaciones?: Insertar piezas solo las coloca en el diseño, pero no tienen conexión entre sí. Construir un ensamblaje con relaciones hace que las piezas trabajen juntas, fijas o con movimiento, según la unión aplicada.
 2. ¿Qué relación fue más difícil de definir y por qué?: La relación del pasador con el alojamiento (Revoluta), porque había que ajustar bien el origen en el centro del agujero para que no se desplazara.
 3. ¿Cómo distinguió una interferencia de un contacto previsto?: La interferencia aparece con volumen distinto de cero en el análisis. El contacto previsto muestra volumen 0.00 mm³, lo que significa que encajan sin solaparse.
-4. ¿Qué comprobará en Semana 14 antes de generar una vista explosionada o una lista de componentes?: 
+4. ¿Qué comprobará en Semana 14 antes de generar una vista explosionada o una lista de componentes?:Que todas las piezas estén visibles y nombradas correctamente, que las relaciones estén bien definidas, que no haya interferencias y que los movimientos sean los esperados. 
 
 ## Revisión docente
 
