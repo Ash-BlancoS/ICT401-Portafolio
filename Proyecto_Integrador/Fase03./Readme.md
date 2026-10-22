@@ -100,11 +100,11 @@ Herramienta usada: Inspeccionar → Interferencia, con ambos componentes selecci
 | Cerrada (0 mm) | 1 grupo de interferencia (con Include Coincident Faces activado) | 14.888 mm³ | Corregir: ajustar el empalme o chaflán de la punta inferior de las orejas del clip de P01 y recalcular hasta 0 mm³ |
 | Media apertura (30 mm) | 1 grupo de interferencia | 955.76 mm³ | Justificar: corresponde al paso del clip por el agarre durante el encaje a presión, que en un modelo rígido aparece como solape; se comprobará a 60 mm que no queda interferencia fuera del agarre |
 
-![Figura 6](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/imagenes/Fase%2003/fig06_detalle_interferencia_cerrada.png)
+![Figura 6](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/imagenes/Fase%2003/fig06_interferencia_cerrada.png) 
 
 *Figura 6. Resultado de Inspeccionar → Interferencia con la tapa cerrada (0 mm): 1 grupo, volumen de 14.888 mm³ entre P02 y P01.*
 
-![Detalle de la Figura 6](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/imagenes/Fase%2003/fig06_interferencia_cerrada.png)
+![Detalle de la Figura 6](https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/imagenes/Fase%2003/fig06_detalle_interferencia_cerrada.png)
 
 *Detalle de la Figura 6: la interferencia aparece como dos pequeños triángulos rojos en las puntas inferiores de las orejas del clip.*
 
