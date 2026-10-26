@@ -32,3 +32,4 @@
 |21/10/2026|Revisar los bordes de las piezas|Se activó el estilo Shaded with Visible Edges Only y se revisaron los bordes de P01 en la zona del clip|
 |21/10/2026|Documentar Fase 03|Se elaboró el informe de la fase y el README, reuniendo las capturas, los resultados de las verificaciones y las interferencias detectadas|
 
+**nota** : La bitácora se editó para la fase 03 el 21/10/2026, sin embargo por problemas de conexión de internet no se guardaron los cambios, por los que se hizo de nuevo el 25/10/2026.
