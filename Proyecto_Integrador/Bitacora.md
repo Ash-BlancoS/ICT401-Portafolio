@@ -1,3 +1,4 @@
+
 # Fase 01 #
 | Fecha | Objetivo | Actividad |
 |---|---|---|
@@ -19,3 +20,15 @@
 | 06/10/2026 | Generar alternativas para el gancho de agarre de P01|Se modelaron otras dos alternativas de gancho para P01. Se evaluaron y se escogió la Alternativa A por mejor agarre y funcionalidad. Se modeló la Alternativa A en P01 y  P02.|
 | 07/10/2026 | Ajustar medidas y mejorar estética de la pieza|Se ajustaron las medidas de P01 y P02 para que encajaran correctamente. Se agregaron chaflanes y redondeos para mejorar la estética y el funcionamiento.|
 | 08/10/2026 |Documentar Fase 02|Se realizó la ficha técnica de la Fase 02 con la recopilación de capturas, piezas iniciales y resultados finales.|
+|25/10/2026|Corregir Fase 02 según indicaciones de clase virtual|Se editó y corrigió la Fase 02 según las observaciones y correcciones indicadas por el profesor en la clase virtual.|
+
+
+# Fase 03 #
+| Fecha | Objetivo | Actividad |
+|---|---|---|
+| 20/10/2026 | Lectura de las instrucciones de la fase 03 | Lectura de las instrucciones de la Fase 03 y anotación de lo que se debe entregar |
+|20/10/2026|Crear el ensamblaje en Fusion 360|Se unieron P01 y P02 en el ensamblaje ICT401_F03_Ensamblaje y Se hicieron cortes por el centro del clip para ver la base dentro de la tapa, se revisó que las dos ranuras de cables quedaran libres |
+|20/10/2026|Revisar las interferencias del ensamblaje|Se corrió el análisis de interferencia con la tapa cerrada, se anotó corregir la primera y justificar la segunda en el informe|
+|21/10/2026|Revisar los bordes de las piezas|Se activó el estilo Shaded with Visible Edges Only y se revisaron los bordes de P01 en la zona del clip|
+|21/10/2026|Documentar Fase 03|Se elaboró el informe de la fase y el README, reuniendo las capturas, los resultados de las verificaciones y las interferencias detectadas|
+
