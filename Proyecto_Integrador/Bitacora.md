@@ -33,3 +33,13 @@
 |21/10/2026|Documentar Fase 03|Se elaboró el informe de la fase y el README, reuniendo las capturas, los resultados de las verificaciones y las interferencias detectadas|
 
 **nota** : La bitácora se editó para la fase 03 el 21/10/2026, sin embargo por problemas de conexión de internet no se guardaron los cambios, por los que se hizo de nuevo el 25/10/2026.
+
+
+# Fase 04 #
+| Fecha | Objetivo | Actividad |
+|---|---|---|
+|28/10/2026|Lectura de las instrucciones de la fase 04|Lectura de las instrucciones de la Fase 04 y anotación de lo que se debe entregar: plano técnico, cajetín, acotación, tolerancias y archivos finales|
+|03/11/2026|Generar el plano técnico en Fusion 360|Se creó el plano técnico de P01, P02 y del ensamblaje, definiendo vistas principales. Se completó el formato del plano, cajetín con datos del proyecto y lista de componentes del ensamblaje cuando correspondía|
+|/11/2026|Aplicar criterios de tolerancia|se agregaron tolerancias introductorias en agujeros y encajes, y se definieron notas técnicas del plano|
+|06/11/2026|Exportar archivos de intercambio y fabricación|Se exportaron los archivos solicitados en PDF, DXF, STEP y STL y se verificó que correspondieran a la versión aprobada|
+|06/11/2026|Documentar y entregar Fase 04|Se realizó la verificación final de las salidas, se recopilaron planos y archivos, y se documentó la entrega oficial de la fase 04|
