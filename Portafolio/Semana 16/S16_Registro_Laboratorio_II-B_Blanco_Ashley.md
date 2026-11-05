@@ -8,7 +8,7 @@
 **Proyecto:** Organizador de Cables – Encaje Rápido
 **Fecha:** 05 de noviembre de 2026
 **Versión inicial:** ICT401_F04_Ensamblaje D_Final
-**Versión evaluada:** `nombre_proyecto_v__`
+**Versión evaluada:** ICT401_F04_Ensamblaje D_Final(respaldo)
 
 ## Propósito y alcance
 
@@ -163,7 +163,7 @@ Después de corregir, guarde la versión evaluada desde **File > Save** o la ord
 | Plano final o documentación | https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Portafolio/Semana%2016/ICT401_F04_Ensamblaje%20D_Final(respaldo).pdf | [x ] |Documento final revisado y legible.  |
 | Lista básica, si corresponde | https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Portafolio/Semana%2016/evidenciasS16_Lista%20de%20piezas.png | [x ] |Coincide con los 2 componentes del ensamblaje.|
 | Archivo de respaldo | https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Portafolio/Semana%2016/ICT401_F04_Ensamblaje%20D_Final(respaldo).pdf | [ x] | Respaldo guardado antes de la entrega. |
-| Ficha completa |  | [x ] |Incluye todas las secciones requeridas.  |
+| Ficha completa | https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Portafolio/Semana%2016/S16_Registro_Laboratorio_II-B_Blanco_Ashley.md | [x ] |Incluye todas las secciones requeridas.  |
 
 ## Separación de la Fase 4
 
