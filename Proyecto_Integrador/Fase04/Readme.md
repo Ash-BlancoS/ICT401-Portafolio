@@ -79,7 +79,7 @@ Fase04/
 
 - Autodesk Fusion (licencia educativa) — modelado, ensamblaje y dibujos
 - Exportación: PDF y DXF
-- 
+  
 
 ## 8. Autoría
 
