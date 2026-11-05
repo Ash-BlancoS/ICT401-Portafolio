@@ -9,6 +9,7 @@
 **Fecha:** 05 de noviembre de 2026
 **Versión inicial:** ICT401_F04_Ensamblaje D_Final
 **Versión evaluada:** ICT401_F04_Ensamblaje D_Final(respaldo)
+**Link del Laboratorio II-B:**
 
 ## Propósito y alcance
 
