@@ -56,6 +56,10 @@ Fase04/
 - **Tolerancias específicas:** 42 ±0.2 y 44.66 ±0.2 (plano de ensamblaje)
 - **Número de dibujo del ensamblaje:** ICT401-F04-01
 - **Fecha de emisión:** 03/11/2026
+- **Links:**
+    - https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/modelos/ICT401_F04_Ensamblaje%20Drawing.pdf
+    - https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/modelos/ICT401_F04_Gancho_P01%20Dibujo.pdf
+    - https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Proyecto_Integrador/modelos/ICT401_F04_Tapa_P02%20Dibujo.pdf
 
 ## 5. Lista de componentes (ensamblaje)
 
