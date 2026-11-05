@@ -9,7 +9,7 @@
 **Fecha:** 05 de noviembre de 2026
 **Versión inicial:** ICT401_F04_Ensamblaje D_Final
 **Versión evaluada:** ICT401_F04_Ensamblaje D_Final(respaldo)
-**Link del Laboratorio II-B:**
+**Link del Laboratorio II-B:** https://github.com/Ash-BlancoS/ICT401-Portafolio/blob/main/Laboratorio_II/II-B/S16_Registro_Laboratorio_II-B_Blanco_Ashley.md
 
 ## Propósito y alcance
 
